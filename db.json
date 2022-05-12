@@ -138,6 +138,66 @@
       "bookmarked": "yes",
       "Date": "2022-05-11T15:52:46.516Z",
       "id": 11
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Print alternate elements of an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T09:52:21.751Z",
+      "id": 12
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Value equal to index value",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T09:59:44.557Z",
+      "id": 13
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "C++ Arrays (Sum of array) | Set 1",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/c-arrays-sum-of-array-set-14805/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T10:04:39.438Z",
+      "id": 14
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Second Largest",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/second-largest3735/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-12T11:58:35.273Z",
+      "id": 15
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Palindromic Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/palindromic-array-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-12T12:27:36.258Z",
+      "id": 16
     }
   ]
 }
