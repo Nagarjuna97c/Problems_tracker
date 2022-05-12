@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="problemsTrack.js"></script>
+    <title>Todo List</title>
+  </head>
+  <body>
+    <nav class="nav-bar">
+      <h1 class="todo-title">Coding Tracker</h1>
+    </nav>
+    <div class="main-container">
+      <div class="input-container">
+        <input
+          type="text"
+          class="topic-input"
+          placeholder="Enter Topic here..."
+          required
+        />
+      </div>
+      <div class="input-container">
+        <input
+          type="text"
+          class="question-input"
+          placeholder="Enter question name here..."
+          required
+        />
+      </div>
+      <div class="input-container">
+        <input
+          type="text"
+          class="url-input"
+          placeholder="Enter Problem Url here..."
+          required
+        />
+      </div>
+      <div class="input-container">
+        <input
+          type="text"
+          class="notes-input"
+          placeholder="Enter Notes here..."
+          required
+        />
+      </div>
+      <div class="label-container">
+        <h2>Bookmark</h2>
+        <label>
+          <input type="radio" name="bookmark" value="no" checked />No</label
+        >
+        <label> <input type="radio" name="bookmark" value="yes" />Yes </label>
+      </div>
+      <div class="label-container">
+        <h2>Problem status</h2>
+        <label>
+          <input
+            type="radio"
+            name="progress"
+            value="completed"
+            checked
+          />Completed</label
+        >
+        <label>
+          <input type="radio" name="progress" value="pending" />pending
+        </label>
+        <label>
+          <input
+            type="radio"
+            name="progress"
+            value="looking for a better approach"
+          />Looking for a better approach
+        </label>
+      </div>
+      <button type="button" onclick="addProblemToTracker()" class="add-problem">
+        Add Problem To Tracker
+      </button>
+      <!-- <div class="search-container">
+        <input
+          type="text"
+          class="search-input"
+          placeholder="Search a ToDo here..."
+        />
+      </div>
+      <div class="sort-container">
+        <div class="sort-option">All</div>
+        <div class="sort-option">Ongoing</div>
+        <div class="sort-option">Completed</div>
+      </div>
+      <div class="todos-container"></div>
+      <div class="scroll-target"></div>
+    </div>
+    <div class="modal-container">
+      <div class="edit-todo-container">
+        <h3 class="edit-todo-task"></h3>
+        <div class="edit-input-container">
+          <input
+            type="text"
+            class="todo-edit-input"
+            placeholder="Enter the updated todo"
+          />
+          <span class="add-todo" onclick="editTodo()">✅</span>
+        </div>
+      </div> -->
+    </div>
+  </body>
+</html>

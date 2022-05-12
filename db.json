@@ -1,0 +1,143 @@
+{
+  "problemsTracksheet": [
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Concatenation of Array",
+      "questionUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-10T10:53:53.638Z",
+      "id": 1
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Build Array from Permutation",
+      "questionUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "notes": "https://leetcode.com/problems/build-array-from-permutation/",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-10T11:02:36.887Z",
+      "id": 2
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Running Sum of 1d Array",
+      "questionUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "notes": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-10T11:08:24.376Z",
+      "id": 3
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Richest Customer Wealth",
+      "questionUrl": "https://leetcode.com/problems/richest-customer-wealth/submissions/",
+      "notes": "https://leetcode.com/problems/richest-customer-wealth/submissions/",
+      "bookmarked": "no",
+      "questionStatus": "completed",
+      "Date": "2022-05-10T11:15:57.240Z",
+      "id": 4
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Final Value of Variable After Performing Operations",
+      "questionUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "notes": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "bookmarked": "no",
+      "questionStatus": "completed",
+      "Date": "2022-05-10T11:21:03.448Z",
+      "id": 5
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "3Sum",
+      "questionUrl": "https://leetcode.com/problems/3sum/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-10T15:58:02.470Z",
+      "id": 6
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "questionTitle": "3Sum Closest",
+      "questionUrl": "https://leetcode.com/problems/3sum-closest/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-11T00:38:17.310Z",
+      "id": 7
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "questionTitle": "4Sum",
+      "questionUrl": "https://leetcode.com/problems/4sum/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-11T05:48:39.318Z",
+      "id": 8
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointers"
+      ],
+      "questionTitle": "Remove Duplicates from Sorted Array",
+      "questionUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-11T06:03:15.686Z",
+      "id": 9
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointers"
+      ],
+      "questionTitle": "Remove Element",
+      "questionUrl": "https://leetcode.com/problems/remove-element/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-11T06:10:05.352Z",
+      "id": 10
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointers"
+      ],
+      "questionTitle": "Next Permutation",
+      "questionUrl": "https://leetcode.com/problems/next-permutation/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-11T15:52:46.516Z",
+      "id": 11
+    }
+  ]
+}
