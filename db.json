@@ -403,6 +403,167 @@
       "bookmarked": "no",
       "Date": "2022-05-13T01:44:33.916Z",
       "id": 33
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Multiply Matrices",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/multiply-matrices/1",
+      "notes": "This works for multiplication of rectangle matrices as well",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-13T05:41:39.841Z",
+      "id": 34
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Sum of elements in a matrix",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T06:46:36.611Z",
+      "id": 35
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Toeplitz matrix",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/toeplitz-matrix/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T07:51:29.225Z",
+      "id": 36
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Identical Matrices",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/identical-matrices1042/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T07:54:12.664Z",
+      "id": 37
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Find difference between sum of diagonals",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-difference-between-sum-of-diagonals1554/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T08:00:54.152Z",
+      "id": 38
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Addition of two square matrices",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T08:05:54.035Z",
+      "id": 39
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Diagonal sum",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/diagonal-sum0158/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T08:08:35.498Z",
+      "id": 40
+    },
+    {
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
+      "questionTitle": "Extract the integers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/extract-the-integers4428/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-13T08:46:51.904Z",
+      "id": 41
+    },
+    {
+      "topic": [
+        "Permutation"
+      ],
+      "questionTitle": "nPr",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/npr4253/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T11:19:07.785Z",
+      "id": 42
+    },
+    {
+      "topic": [
+        "Permutation"
+      ],
+      "questionTitle": "Find triplets with zero sum",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+      "notes": "Try again after learning hashing",
+      "questionStatus": "looking for a better approach",
+      "bookmarked": "no",
+      "Date": "2022-05-13T11:30:31.411Z",
+      "id": 43
+    },
+    {
+      "topic": [
+        "Arrays",
+        "Divide and Conquer",
+        "Searching"
+      ],
+      "questionTitle": "Binary Search",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-13T12:09:55.540Z",
+      "id": 44
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Rotate by 90 degree",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T12:22:02.522Z",
+      "id": 45
+    },
+    {
+      "topic": [
+        "Array",
+        "Sorting",
+        "Two Pointer"
+      ],
+      "questionTitle": "Binary Array Sorting",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1",
+      "notes": "do no forget to add the if condition of \"left index should be less than right index\"",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-13T12:47:21.222Z",
+      "id": 46
     }
   ]
 }
