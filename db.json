@@ -133,7 +133,7 @@
       ],
       "questionTitle": "Next Permutation",
       "questionUrl": "https://leetcode.com/problems/next-permutation/",
-      "notes": "",
+      "notes": "Check permutation trees",
       "questionStatus": "completed",
       "bookmarked": "yes",
       "Date": "2022-05-11T15:52:46.516Z",
@@ -181,7 +181,7 @@
       ],
       "questionTitle": "Second Largest",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/second-largest3735/1",
-      "notes": "",
+      "notes": "second largest element should not be equal to the first element",
       "questionStatus": "completed",
       "bookmarked": "yes",
       "Date": "2022-05-12T11:58:35.273Z",
@@ -198,6 +198,211 @@
       "bookmarked": "yes",
       "Date": "2022-05-12T12:27:36.258Z",
       "id": 16
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Sum of Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-array2326/1/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T16:12:05.472Z",
+      "id": 17
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Sum of Series",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-series2811/1/",
+      "notes": "use the formulae n*(n+1))/2",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-12T16:16:26.671Z",
+      "id": 18
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "C++ Array (print an element)",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1",
+      "notes": "c++ coding only available",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T16:24:15.082Z",
+      "id": 19
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Count of smaller elements",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/count-of-smaller-elements5947/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T16:29:36.493Z",
+      "id": 20
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Print Elements of Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/print-elements-of-array4910/1",
+      "notes": "Use for loop. Looks like destructuring has a limit.",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T16:42:05.486Z",
+      "id": 21
+    },
+    {
+      "topic": [
+        "Array",
+        "String"
+      ],
+      "questionTitle": "Display longest name",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/display-longest-name0853/1/",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T16:45:57.699Z",
+      "id": 22
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Swap kth elements",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-kth-elements5500/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T16:50:06.878Z",
+      "id": 23
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Find Index",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-index4752/1",
+      "notes": "start index and end index can be the same",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T16:58:16.532Z",
+      "id": 24
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "At least two greater elements",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1",
+      "notes": "Inbuilt sorting works.Learn a better sorting method.",
+      "questionStatus": "looking for a better approach",
+      "bookmarked": "yes",
+      "Date": "2022-05-12T17:14:04.452Z",
+      "id": 25
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Smaller and Larger",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/smaller-and-larger4005/1",
+      "notes": "Take note of equal to condition",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T17:38:51.807Z",
+      "id": 26
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Print the left element",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/print-the-left-element2009/1",
+      "notes": "Take note of equal to condition",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T17:49:40.067Z",
+      "id": 27
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Perfect Arrays",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-12T18:33:26.555Z",
+      "id": 28
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Fascinating Number",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/fascinating-number3751/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-13T01:09:20.319Z",
+      "id": 29
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Average in a stream",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/average4856/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T01:20:43.030Z",
+      "id": 30
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Java Arrays",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/java-arrays-set-11354/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T01:29:37.251Z",
+      "id": 31
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Compete the skills",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/compete-the-skills5807/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T01:33:05.795Z",
+      "id": 32
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "C++ 2-D Arrays | Set-1",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-13T01:44:33.916Z",
+      "id": 33
     }
   ]
 }
