@@ -564,6 +564,676 @@
       "bookmarked": "yes",
       "Date": "2022-05-13T12:47:21.222Z",
       "id": 46
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Odd or Even",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/odd-or-even3618/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T02:10:05.235Z",
+      "id": 47
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Party of Couples",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T02:11:31.435Z",
+      "id": 48
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Binary representation",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-representation5003/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T02:19:58.731Z",
+      "id": 49
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Combinational Logic",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/combinational-logic1908/1",
+      "notes": "dot(.) represents AND gate and plus(+) represents OR gate.",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T03:00:16.351Z",
+      "id": 50
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Bit Compression",
+      "questionUrl": "https://www.scaler.com/academy/mentee-dashboard/class/24889/homework/problems/13787/?navref=cl_pb_nv_tb",
+      "notes": "A[i]^A[j]==(A[i]&A[j])^(A[i]|A[j])",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T05:28:00.079Z",
+      "id": 51
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Power of 2",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1",
+      "notes": "New approach--->For numbers equal to power of 2 there is only one set bit",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T05:36:10.862Z",
+      "id": 52
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Bit Difference",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T06:21:17.405Z",
+      "id": 53
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Transpose of Matrix",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T06:23:39.342Z",
+      "id": 54
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Count zeros in a sorted matrix",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1",
+      "notes": "New Approach",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T06:40:57.488Z",
+      "id": 55
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Sorted matrix",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T08:38:25.373Z",
+      "id": 56
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Print Matrix in snake Pattern",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T08:50:37.952Z",
+      "id": 57
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointer",
+        "Greedy"
+      ],
+      "questionTitle": "Ishaan Loves Chocolates",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1",
+      "notes": "Did not use greedy algorithm",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T11:13:20.572Z",
+      "id": 58
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
+      "questionTitle": "Sort the Half Sorted",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sort-the-half-sorted2157/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T12:30:56.477Z",
+      "id": 59
+    },
+    {
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
+      "questionTitle": "Reverse a string with spaces intact ",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1",
+      "notes": "Wrong problem on their end.Line number 30 is a bug",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T13:30:48.443Z",
+      "id": 60
+    },
+    {
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
+      "questionTitle": "Message decoding",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/message-decoding4305/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T13:54:55.636Z",
+      "id": 61
+    },
+    {
+      "topic": [
+        "Prefix Sum",
+        "Sliding Window"
+      ],
+      "questionTitle": "Max Sum Subarray of size K",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T14:24:04.407Z",
+      "id": 62
+    },
+    {
+      "topic": [
+        "Binary Representation",
+        "Bit Magic"
+      ],
+      "questionTitle": "Gray Code",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/gray-code4907/1",
+      "notes": "Look at binary to gray code conversion videos",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T20:05:16.793Z",
+      "id": 63
+    },
+    {
+      "topic": [
+        "String",
+        "Binary Representation"
+      ],
+      "questionTitle": "Check Binary String",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/check-binary-string0402/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T21:06:43.668Z",
+      "id": 64
+    },
+    {
+      "topic": [
+        "Binary Representation"
+      ],
+      "questionTitle": " C++ Nega Bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/c-nega-bit2019/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-14T21:20:04.509Z",
+      "id": 65
+    },
+    {
+      "topic": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "questionTitle": "Longest Equal Prefix",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/longest-equal-prefix3139/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T21:37:33.207Z",
+      "id": 66
+    },
+    {
+      "topic": [
+        "Factorial"
+      ],
+      "questionTitle": "Strong Numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/strong-numbers3315/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T21:57:33.471Z",
+      "id": 67
+    },
+    {
+      "topic": [
+        "Factorial"
+      ],
+      "questionTitle": "Krishnamurthy number",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/krishnamurthy-number1323/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T22:00:12.414Z",
+      "id": 68
+    },
+    {
+      "topic": [
+        "Factorial"
+      ],
+      "questionTitle": "Strong Numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/strong-numbers4336/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T22:01:30.865Z",
+      "id": 69
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Largest Element in Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T22:15:48.674Z",
+      "id": 70
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Cyclically rotate an array by one",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T22:20:52.295Z",
+      "id": 71
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Minimum distance between two numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-14T22:41:06.312Z",
+      "id": 72
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Reverse array in groups",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T04:47:35.965Z",
+      "id": 73
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Implement stack using array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T05:41:08.728Z",
+      "id": 74
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Find minimum and maximum element in an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T05:44:04.677Z",
+      "id": 75
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Search an Element in an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T05:45:41.076Z",
+      "id": 76
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "First and last occurrences of x",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T05:47:45.978Z",
+      "id": 77
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Implement Queue using array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T06:45:48.665Z",
+      "id": 78
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Third largest element",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/third-largest-element/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T06:52:40.269Z",
+      "id": 79
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Replace all 0's with 5 ",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T06:55:17.709Z",
+      "id": 80
+    },
+    {
+      "topic": [
+        "Array,Sorting"
+      ],
+      "questionTitle": "Maximize sum(arr[i]*i) of an Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array0026/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T06:59:20.245Z",
+      "id": 81
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Product of array elements",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/product-of-array-element/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T07:01:23.502Z",
+      "id": 82
+    },
+    {
+      "topic": [
+        "Array,Searching"
+      ],
+      "questionTitle": "Number of occurrence",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-15T12:33:23.479Z",
+      "id": 83
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Game with nos",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/game-with-nos3123/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T12:38:29.477Z",
+      "id": 84
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Maximum in Struct Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-in-struct-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T13:16:23.394Z",
+      "id": 85
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Pythagorean Triplet",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T13:35:22.333Z",
+      "id": 86
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": " Operating an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/operating-an-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:07:32.387Z",
+      "id": 87
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Product of maximum in first array and minimum in second",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:24:55.099Z",
+      "id": 88
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Searching a number",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/searching-a-number0324/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:26:46.564Z",
+      "id": 89
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Multiply left and right array sum",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:35:00.780Z",
+      "id": 90
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Balanced Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/balanced-array07200720/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:36:50.916Z",
+      "id": 91
+    },
+    {
+      "topic": [
+        "Array",
+        "Bit Magic"
+      ],
+      "questionTitle": "Play With OR",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/play-with-or5515/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:38:56.342Z",
+      "id": 92
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Fighting the darkness",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:40:08.759Z",
+      "id": 93
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Convert array into Zig-Zag fashion",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:45:14.085Z",
+      "id": 94
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Find Number of Numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-number-of-numbers/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:50:41.467Z",
+      "id": 95
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": " Last index of One",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/last-index-of-15847/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T14:56:14.221Z",
+      "id": 96
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Play with an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/play-with-an-array/1",
+      "notes": "check c++ code",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T15:06:30.580Z",
+      "id": 97
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Immediate Smaller Element",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T15:09:50.612Z",
+      "id": 98
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Minimize the sum of product",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T15:12:19.062Z",
+      "id": 99
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Total count",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/total-count2415/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T15:18:19.121Z",
+      "id": 100
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Index of first 1 in a sorted array of 0s and 1s",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-15T16:57:34.200Z",
+      "id": 101
     }
   ]
 }
