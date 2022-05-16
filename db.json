@@ -1234,6 +1234,68 @@
       "bookmarked": "no",
       "Date": "2022-05-15T16:57:34.200Z",
       "id": 101
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Rotating an Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/reversal-algorithm5340/1",
+      "notes": "IN PLACE",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-16T02:28:35.959Z",
+      "id": 102
+    },
+    {
+      "topic": [
+        "Array,Bit Magic"
+      ],
+      "questionTitle": "Exceptionally odd",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T02:41:13.665Z",
+      "id": 103
+    },
+    {
+      "topic": [
+        "Array",
+        "Binary Search",
+        "Searching"
+      ],
+      "questionTitle": " First and last occurrences of X",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T02:46:19.698Z",
+      "id": 104
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Find the smallest and second smallest element in an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T03:14:15.051Z",
+      "id": 105
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Java 1-d and 2-d Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/java-1-d-and-2-d-array2952/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T03:23:25.355Z",
+      "id": 106
     }
   ]
 }
