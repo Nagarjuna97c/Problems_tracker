@@ -1296,6 +1296,126 @@
       "bookmarked": "no",
       "Date": "2022-05-16T03:23:25.355Z",
       "id": 106
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Sum Array Puzzle",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T04:27:24.055Z",
+      "id": 107
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Triplet Family",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/triplet-family/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T04:51:44.017Z",
+      "id": 108
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Quick Left Rotation",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/quick-left-rotation3806/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T05:45:17.976Z",
+      "id": 109
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Swap and Maximize",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1",
+      "notes": "",
+      "questionStatus": "looking for a better approach",
+      "bookmarked": "yes",
+      "Date": "2022-05-16T08:13:42.921Z",
+      "id": 110
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Maximum product of two numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T08:15:38.151Z",
+      "id": 111
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Greater on right side",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/greater-on-right-side4305/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T08:20:59.542Z",
+      "id": 112
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Magical Number",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/magical-number-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T08:41:39.207Z",
+      "id": 113
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Segregate Even and Odd numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T09:00:25.868Z",
+      "id": 114
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Sum of upper and lower triangles",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T10:00:57.747Z",
+      "id": 115
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Sums of i-th row and i-th column",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T12:12:15.006Z",
+      "id": 116
     }
   ]
 }
