@@ -1524,6 +1524,258 @@
       "bookmarked": "no",
       "Date": "2022-05-17T03:19:43.492Z",
       "id": 125
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Swap two nibbles in a byte",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-two-nibbles-in-a-byte0446/1",
+      "notes": "nibble is 4 bits",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T04:43:21.663Z",
+      "id": 126
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Equal Sum and XOR",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T05:48:25.088Z",
+      "id": 127
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Change all even bits in a number to 0",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/change-all-even-bits-in-a-number-to-03253/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T06:01:39.615Z",
+      "id": 128
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Toggle bits given range",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/toggle-bits-given-range0952/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T06:07:41.358Z",
+      "id": 129
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Binary Shift to Divide",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-out-the-team0025/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T06:11:19.676Z",
+      "id": 130
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Decimal to binary",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-17T06:37:22.434Z",
+      "id": 131
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "XOR of all elements",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/xor-of-all-elements0736/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T06:43:20.050Z",
+      "id": 132
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Parity of unsigned integer",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/parity-of-unsigned-integer4247/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T06:51:28.362Z",
+      "id": 133
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "set-bits and number",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/got-tv-series3124/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T07:12:24.013Z",
+      "id": 134
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Mrs. S- JAVA Bits Set 1",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/mrs-s-java-bits-set-1/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T07:30:46.456Z",
+      "id": 135
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Missing number in shuffled array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:05:26.843Z",
+      "id": 136
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "The OR Gate",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/the-or-gate3122/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:07:31.968Z",
+      "id": 137
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Factor OR Multiple",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/factor-or-multiple1128/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:09:53.096Z",
+      "id": 138
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "The XOR Gate",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/the-xor-gate0918/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:12:20.564Z",
+      "id": 139
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Replace the Bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:27:56.002Z",
+      "id": 140
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Smallest power of 2 greater than or equal to n",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/smallest-power-of-2-greater-than-or-equal-to-n2630/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:31:29.787Z",
+      "id": 141
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "One's Complement",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/ones-complement5928/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:33:43.256Z",
+      "id": 142
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "XOR Count Zero and One",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/xor-count-zero-and-one2724/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:36:58.901Z",
+      "id": 143
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Check whether two numbers differ at one bit position only",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/check-whether-two-numbers-differ-at-one-bit-position-only3415/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:38:55.989Z",
+      "id": 144
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "The AND Gate",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/the-and-gate1231/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T08:51:34.997Z",
+      "id": 145
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Sum of Consecutives",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-consecutives1030/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T09:05:19.562Z",
+      "id": 146
     }
   ]
 }
