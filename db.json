@@ -1395,7 +1395,7 @@
     },
     {
       "topic": [
-        "Array"
+        "Matrix"
       ],
       "questionTitle": "Sum of upper and lower triangles",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1",
@@ -1407,7 +1407,7 @@
     },
     {
       "topic": [
-        "Array"
+        "Matrix"
       ],
       "questionTitle": "Sums of i-th row and i-th column",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1",
@@ -1416,6 +1416,114 @@
       "bookmarked": "no",
       "Date": "2022-05-16T12:12:15.006Z",
       "id": 116
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": " Squares in a Matrix",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/squares-in-a-matrix5716/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-16T14:38:02.516Z",
+      "id": 117
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Help a Thief!!!",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/help-a-thief5938/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-16T15:38:50.608Z",
+      "id": 118
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Find position of set bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T15:48:54.135Z",
+      "id": 119
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Gray to Binary equivalent",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-16T17:09:29.263Z",
+      "id": 120
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Set kth bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-16T17:13:14.504Z",
+      "id": 121
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Midori and chocolates",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/midori-and-chocolates2438/1",
+      "notes": "Shops start from 1 not 0.",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T00:30:23.887Z",
+      "id": 122
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Check set bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/check-set-bits5408/1",
+      "notes": "Write code for 0 input",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T00:33:37.238Z",
+      "id": 123
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Rotate Bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/rotate-bits4524/1",
+      "notes": "16 bit limit should be noted for BOTH left and right rotations.",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-17T03:11:32.959Z",
+      "id": 124
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "1's Complement",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/1s-complement2819/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-17T03:19:43.492Z",
+      "id": 125
     }
   ]
 }

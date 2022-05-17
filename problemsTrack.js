@@ -52,4 +52,5 @@ async function addProblemToTracker(event) {
 
   questionInput.value = "";
   urlInput.value = "";
+  notesInput.value = "";
 }
