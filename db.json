@@ -1776,6 +1776,150 @@
       "bookmarked": "no",
       "Date": "2022-05-17T09:05:19.562Z",
       "id": 146
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Numbers having alternate bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/product-of-digits4348/1",
+      "notes": "used a modified math formula in first submission",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-18T04:36:09.390Z",
+      "id": 147
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Set the rightmost unset bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T05:23:55.591Z",
+      "id": 148
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "First and last Bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/first-and-last-bit2357/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T06:33:01.901Z",
+      "id": 149
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Binary representation of previous number",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-representation-of-previous-number0638/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T06:54:43.388Z",
+      "id": 150
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "XOR play ",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/xor-play1544/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T07:19:49.356Z",
+      "id": 151
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Invert the Bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/invert-the-bits2942/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T07:22:00.374Z",
+      "id": 152
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Set all odd bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/set-all-odd-bits1900/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T08:09:10.414Z",
+      "id": 153
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Binary representation of next number",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-representation-of-next-number3648/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T08:18:08.597Z",
+      "id": 154
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Number Series",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/number-series3015/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T08:37:32.961Z",
+      "id": 155
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Maximize OR",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/maximize-or0509/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-18T09:10:56.773Z",
+      "id": 156
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Numbers having alternate bits in range 1 to n",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/numbers-having-alternate-bits-in-range-1-to-n2350/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T11:35:54.302Z",
+      "id": 157
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Subarray with given sum",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-18T12:21:51.077Z",
+      "id": 158
     }
   ]
 }
