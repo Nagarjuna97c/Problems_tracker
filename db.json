@@ -1920,6 +1920,66 @@
       "bookmarked": "no",
       "Date": "2022-05-18T12:21:51.077Z",
       "id": 158
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Sum of Products",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-products5049/1",
+      "notes": "Sum of each bit of array",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-19T05:41:29.018Z",
+      "id": 159
+    },
+    {
+      "topic": [
+        "Array,Bit Magic,Searching"
+      ],
+      "questionTitle": "Missing number in array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-19T09:09:35.985Z",
+      "id": 160
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Find duplicates in an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-19T09:45:06.780Z",
+      "id": 161
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Josephus problem",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/josephus-problem/1",
+      "notes": "Used recursion",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-19T11:17:38.620Z",
+      "id": 162
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Check whether K-th bit is set or not",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-19T11:18:01.350Z",
+      "id": 163
     }
   ]
 }
