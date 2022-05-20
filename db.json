@@ -2120,6 +2120,143 @@
       "bookmarked": "no",
       "Date": "2022-05-20T03:29:57.152Z",
       "id": 174
+    },
+    {
+      "topic": [
+        "Array",
+        "Stack"
+      ],
+      "questionTitle": "Implement two stacks in an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T04:41:21.194Z",
+      "id": 175
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Union of Two Sorted Arrays",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T05:14:10.603Z",
+      "id": 176
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Sum of Array Elements",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T05:34:33.073Z",
+      "id": 177
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Count Odd Even",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/count-odd-even/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T05:39:17.117Z",
+      "id": 178
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Count the Zeros",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T05:47:58.959Z",
+      "id": 179
+    },
+    {
+      "topic": [
+        "Array",
+        "Searching"
+      ],
+      "questionTitle": "Bitonic Point",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T06:15:13.396Z",
+      "id": 180
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Alternate positive and negative numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T06:53:24.932Z",
+      "id": 181
+    },
+    {
+      "topic": [
+        "Array",
+        "String"
+      ],
+      "questionTitle": "Longest Common Prefix in an Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T08:44:01.832Z",
+      "id": 182
+    },
+    {
+      "topic": [
+        "Array",
+        "String"
+      ],
+      "questionTitle": "Segregate 0s and 1s",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T08:53:51.169Z",
+      "id": 183
+    },
+    {
+      "topic": [
+        "Array",
+        "String"
+      ],
+      "questionTitle": "Plus One",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/plus-one/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T09:37:19.945Z",
+      "id": 184
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Need Some Change",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/need-some-change/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T09:41:08.530Z",
+      "id": 185
     }
   ]
 }
