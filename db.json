@@ -1980,6 +1980,146 @@
       "bookmarked": "no",
       "Date": "2022-05-19T11:18:01.350Z",
       "id": 163
+    },
+    {
+      "topic": [
+        "Array",
+        "Bit Magic"
+      ],
+      "questionTitle": "https://practice.geeksforgeeks.org/problems/even-occurring-elements4332/1",
+      "questionUrl": "Even Occurring Elements",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-19T14:38:32.315Z",
+      "id": 164
+    },
+    {
+      "topic": [
+        "Array",
+        "Searching"
+      ],
+      "questionTitle": "Peak element",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/peak-element/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-19T14:56:33.225Z",
+      "id": 165
+    },
+    {
+      "topic": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "questionTitle": "Equilibrium Point",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-19T15:43:59.402Z",
+      "id": 166
+    },
+    {
+      "topic": [
+        "Array",
+        "Searching"
+      ],
+      "questionTitle": "Find Transition Point ",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-19T16:50:01.428Z",
+      "id": 167
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Leaders in an array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-19T16:55:11.590Z",
+      "id": 168
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Rotate Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-19T17:16:17.939Z",
+      "id": 169
+    },
+    {
+      "topic": [
+        "Array",
+        "Sorting"
+      ],
+      "questionTitle": "Wave Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T02:22:32.146Z",
+      "id": 170
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
+      "questionTitle": "Remove duplicate elements from sorted Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T02:27:53.991Z",
+      "id": 171
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Product array puzzle",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-20T02:43:02.455Z",
+      "id": 172
+    },
+    {
+      "topic": [
+        "Array",
+        "Sorting"
+      ],
+      "questionTitle": "Three way partitioning",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-20T03:15:04.234Z",
+      "id": 173
+    },
+    {
+      "topic": [
+        "Array",
+        "Searching"
+      ],
+      "questionTitle": " Index Of an Extra Element",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-20T03:29:57.152Z",
+      "id": 174
     }
   ]
 }
