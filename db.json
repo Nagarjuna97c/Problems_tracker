@@ -2695,6 +2695,44 @@
       "bookmarked": "yes",
       "Date": "2022-05-26T03:19:17.255Z",
       "id": 220
+    },
+    {
+      "topic": [
+        "Permutation"
+      ],
+      "questionTitle": "Rectangles in N*N Board",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/rectangles-in-nn-board5930/1",
+      "notes": "Solved used pen and paper.Derived formula from test cases.",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-26T05:37:58.524Z",
+      "id": 221
+    },
+    {
+      "topic": [
+        "Permutation",
+        "String"
+      ],
+      "questionTitle": "Colorful Strings",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/geek-and-its-colored-strings1355/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-26T08:50:18.212Z",
+      "id": 222
+    },
+    {
+      "topic": [
+        "Permutation",
+        "String"
+      ],
+      "questionTitle": "Lexicographically Previous Permutation",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/lexicographically-previous-permutation3620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-26T13:35:47.039Z",
+      "id": 223
     }
   ]
 }
