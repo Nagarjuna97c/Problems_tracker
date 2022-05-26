@@ -2257,6 +2257,444 @@
       "bookmarked": "no",
       "Date": "2022-05-20T09:41:08.530Z",
       "id": 185
+    },
+    {
+      "topic": [
+        "Array",
+        "Searching",
+        "Binary search"
+      ],
+      "questionTitle": "Minimum Number in a sorted rotated array ",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-22T04:17:03.575Z",
+      "id": 186
+    },
+    {
+      "topic": [
+        "Array",
+        "Searching",
+        "Binary search"
+      ],
+      "questionTitle": "Counting elements in two arrays",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1",
+      "notes": "Does not work in python",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T13:09:46.823Z",
+      "id": 187
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Count Sorted Rows",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/count-sorted-rows2702/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T13:49:02.665Z",
+      "id": 188
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Multiply 2 matrices",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/multiply-2-matrices4144/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T13:57:08.846Z",
+      "id": 189
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Maximum sum of hour glass",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-sum-of-hour-glass3842/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T14:11:59.014Z",
+      "id": 190
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Left Rotate Matrix K times",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/left-rotate-matrix-k-times2351/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T14:15:58.146Z",
+      "id": 191
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Swapping Triangles",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/swapping-triangles5209/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T14:24:19.269Z",
+      "id": 192
+    },
+    {
+      "topic": [
+        "Matrix"
+      ],
+      "questionTitle": "Starting Point",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/starting-point0909/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T14:32:38.853Z",
+      "id": 193
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Find first set bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T15:55:53.948Z",
+      "id": 194
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Number of 1 Bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/set-bits0143/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T16:13:48.390Z",
+      "id": 195
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Non Repeating Numbers",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T16:19:15.673Z",
+      "id": 196
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Rightmost different bit",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T16:23:07.451Z",
+      "id": 197
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Longest Consecutive 1's",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-22T16:26:19.624Z",
+      "id": 198
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Swap all odd and even bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1",
+      "notes": "math method and shift method",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-23T01:53:20.557Z",
+      "id": 199
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": " Power Set",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/power-set4302/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-23T03:56:14.295Z",
+      "id": 200
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Sum of two numbers without using arithmetic operators",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-23T14:21:56.141Z",
+      "id": 201
+    },
+    {
+      "topic": [
+        "Arrays",
+        "Bit Magic",
+        "Sorting"
+      ],
+      "questionTitle": "Counts Zeros Xor Pairs",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/counts-zeros-xor-pairs0349/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-23T15:08:59.155Z",
+      "id": 202
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Xoring and Clearing",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/xoring-and-clearing/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-23T15:16:03.752Z",
+      "id": 203
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Reverse Bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/reverse-bits3556/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-24T01:47:54.342Z",
+      "id": 204
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Even Subsets",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/even-subsets/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-24T03:26:46.628Z",
+      "id": 205
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Generate Grey Code Sequences",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-24T04:21:51.465Z",
+      "id": 206
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Copy Set Bits in Range",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range0623/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-24T04:49:41.870Z",
+      "id": 207
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Swap bits",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-bits5726/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-24T05:15:30.359Z",
+      "id": 208
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Xoring and Clearing - Java",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/xoring-and-clearing-java/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-24T05:54:16.993Z",
+      "id": 209
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Game of XOR",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/game-of-xor1541/1",
+      "notes": "contibution technique",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-24T06:22:55.854Z",
+      "id": 210
+    },
+    {
+      "topic": [
+        "Bit Magic"
+      ],
+      "questionTitle": "Count the triplets",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-24T07:10:44.155Z",
+      "id": 211
+    },
+    {
+      "topic": [
+        "Array",
+        "Sliding Window",
+        "Queue",
+        "Two Pointer"
+      ],
+      "questionTitle": "First negative integer in every window of size k",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1",
+      "notes": "check again after learning queue",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-24T07:55:16.593Z",
+      "id": 212
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
+      "questionTitle": "Pair with given sum in a sorted array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-24T08:07:48.653Z",
+      "id": 213
+    },
+    {
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
+      "questionTitle": "Four Elements",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/four-elements2452/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-25T10:15:01.492Z",
+      "id": 214
+    },
+    {
+      "topic": [
+        "Sliding Window",
+        "String",
+        "Two Pointer"
+      ],
+      "questionTitle": "Smallest window containing 0, 1 and 2",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/d6e88f06b273a60ae83992314ac514f71841a27d/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-25T11:03:44.203Z",
+      "id": 215
+    },
+    {
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
+      "questionTitle": "Special array reversal",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/special-array-reversal2328/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-25T13:31:44.040Z",
+      "id": 216
+    },
+    {
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
+      "questionTitle": "Palindrome Sentence",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-25T16:05:26.559Z",
+      "id": 217
+    },
+    {
+      "topic": [
+        "String",
+        "Two Pointer",
+        "Sliding Window"
+      ],
+      "questionTitle": "Maximum sum of subarray less than or equal to x",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-sum-of-subarray-less-than-or-equal-to-x4033/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-25T17:45:19.876Z",
+      "id": 218
+    },
+    {
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
+      "questionTitle": "Length of longest subarray",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/length-of-longest-subarray0440/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-26T02:15:15.188Z",
+      "id": 219
+    },
+    {
+      "topic": [
+        "Permutation"
+      ],
+      "questionTitle": "Squares in N*N Chessboard",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1",
+      "notes": "formula gives the sum of squares until that number",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-26T03:19:17.255Z",
+      "id": 220
     }
   ]
 }
