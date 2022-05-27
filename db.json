@@ -2733,6 +2733,18 @@
       "bookmarked": "no",
       "Date": "2022-05-26T13:35:47.039Z",
       "id": 223
+    },
+    {
+      "topic": [
+        "Permutation"
+      ],
+      "questionTitle": "Permutations and Sum",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/permutations-and-sum3001/1",
+      "notes": "Each char occurs same number of times at each position",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-27T02:51:51.056Z",
+      "id": 224
     }
   ]
 }
