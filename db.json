@@ -2745,6 +2745,95 @@
       "bookmarked": "yes",
       "Date": "2022-05-27T02:51:51.056Z",
       "id": 224
+    },
+    {
+      "topic": [
+        "Permutation"
+      ],
+      "questionTitle": "Total number of Strings",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/total-number-of-strings5726/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T06:01:25.685Z",
+      "id": 225
+    },
+    {
+      "topic": [
+        "Permutation"
+      ],
+      "questionTitle": "Min Number of Flips",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/min-number-of-flips3210/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T06:29:04.785Z",
+      "id": 226
+    },
+    {
+      "topic": [
+        "Binary Representation",
+        "String"
+      ],
+      "questionTitle": "Check if actual binary representation of a number is palindrome",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/check-if-actual-binary-representation-of-a-number-is-palindrome0624/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T06:34:52.856Z",
+      "id": 227
+    },
+    {
+      "topic": [
+        "Binary Representation",
+        "Bit Magic"
+      ],
+      "questionTitle": "Check if a number is divisible by 8",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/check-if-a-number-is-divisible-by-83957/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-27T07:12:17.405Z",
+      "id": 228
+    },
+    {
+      "topic": [
+        "Binary Representation",
+        "Array"
+      ],
+      "questionTitle": "Faulty wiring and Bulbs",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/faulty-wiring-and-bulbs2939/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T07:53:29.462Z",
+      "id": 229
+    },
+    {
+      "topic": [
+        "Binary Representation",
+        "String"
+      ],
+      "questionTitle": "Divisible by 5 or not",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/divisible-by-5-or-not-14509/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T08:14:53.759Z",
+      "id": 230
+    },
+    {
+      "topic": [
+        "Binary Representation",
+        "Bit Magic"
+      ],
+      "questionTitle": "Print all bitwise subsets of a number N",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T08:24:13.553Z",
+      "id": 231
     }
   ]
 }
