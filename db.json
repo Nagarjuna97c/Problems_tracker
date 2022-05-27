@@ -2834,6 +2834,44 @@
       "bookmarked": "no",
       "Date": "2022-05-27T08:24:13.553Z",
       "id": 231
+    },
+    {
+      "topic": [
+        "Binary Representation",
+        "String"
+      ],
+      "questionTitle": "Even Decimal Binary String",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/even-decimal-binary-string4748/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-27T11:23:19.922Z",
+      "id": 232
+    },
+    {
+      "topic": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "questionTitle": "Mean of range in array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/mean-of-range-in-array2123/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T11:38:53.515Z",
+      "id": 233
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Smallest subarray with sum greater than x",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-27T12:09:02.810Z",
+      "id": 234
     }
   ]
 }
