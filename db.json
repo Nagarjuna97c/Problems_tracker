@@ -2752,7 +2752,7 @@
       ],
       "questionTitle": "Total number of Strings",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/total-number-of-strings5726/1",
-      "notes": "",
+      "notes": "usage of combination and the formula derived from it",
       "questionStatus": "completed",
       "bookmarked": "no",
       "Date": "2022-05-27T06:01:25.685Z",
@@ -2790,7 +2790,7 @@
       ],
       "questionTitle": "Check if a number is divisible by 8",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/check-if-a-number-is-divisible-by-83957/1",
-      "notes": "",
+      "notes": "a number being divisible by 8 is means it being right shifted 3 times.So its last 3 binary digits should be 0 for it be perfectly divisible by 8.",
       "questionStatus": "completed",
       "bookmarked": "yes",
       "Date": "2022-05-27T07:12:17.405Z",
@@ -2816,9 +2816,9 @@
       ],
       "questionTitle": "Divisible by 5 or not",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/divisible-by-5-or-not-14509/1",
-      "notes": "",
+      "notes": "using modulus method",
       "questionStatus": "completed",
-      "bookmarked": "no",
+      "bookmarked": "yes",
       "Date": "2022-05-27T08:14:53.759Z",
       "id": 230
     },
@@ -2831,7 +2831,7 @@
       "questionUrl": "https://practice.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1",
       "notes": "",
       "questionStatus": "completed",
-      "bookmarked": "no",
+      "bookmarked": "yes",
       "Date": "2022-05-27T08:24:13.553Z",
       "id": 231
     },
@@ -2872,6 +2872,738 @@
       "bookmarked": "no",
       "Date": "2022-05-27T12:09:02.810Z",
       "id": 234
+    },
+    {
+      "topic": [
+        "Hash"
+      ],
+      "questionTitle": "Union of two arrays",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-28T12:15:25.635Z",
+      "id": 235
+    },
+    {
+      "topic": [
+        "Data Types"
+      ],
+      "questionTitle": "ATM",
+      "questionUrl": "https://www.codechef.com/submit-v2/HS08TEST?tab=statement",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T06:58:28.922Z",
+      "id": 236
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Enormous Input Test",
+      "questionUrl": "https://www.codechef.com/submit-v2/INTEST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T07:11:21.824Z",
+      "id": 237
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Total Prize Money",
+      "questionUrl": "https://www.codechef.com/submit-v2/PRIZEPOOL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T07:15:01.155Z",
+      "id": 238
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Practice makes us perfect",
+      "questionUrl": "https://www.codechef.com/submit-v2/PRACTICEPERF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T07:17:49.224Z",
+      "id": 239
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Score High",
+      "questionUrl": "https://www.codechef.com/submit-v2/HIGHSCORE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T07:21:11.740Z",
+      "id": 240
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Degree of Polynomial",
+      "questionUrl": "https://www.codechef.com/submit-v2/DPOLY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T10:41:34.885Z",
+      "id": 241
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Miami GP",
+      "questionUrl": "https://www.codechef.com/submit-v2/F1RULE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:13:46.073Z",
+      "id": 242
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Mahasena",
+      "questionUrl": "https://www.codechef.com/submit-v2/AMR15A",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:23:08.772Z",
+      "id": 243
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Finding Square Roots",
+      "questionUrl": "https://www.codechef.com/submit-v2/FSQRT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:26:22.523Z",
+      "id": 244
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Decrement OR Increment",
+      "questionUrl": "https://www.codechef.com/submit-v2/DECINC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:28:38.314Z",
+      "id": 245
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Pass or Fail",
+      "questionUrl": "https://www.codechef.com/submit-v2/PASSORFAIL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:33:42.380Z",
+      "id": 246
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Second Largest",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW017",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:37:09.846Z",
+      "id": 247
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Sum OR Difference",
+      "questionUrl": "https://www.codechef.com/submit-v2/DIFFSUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:38:54.763Z",
+      "id": 248
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Small Factorial",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW018",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:42:19.026Z",
+      "id": 249
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Helping Chef",
+      "questionUrl": "codechef.com/submit-v2/FLOW008",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:50:27.255Z",
+      "id": 250
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Life, the Universe, and Everything",
+      "questionUrl": "https://www.codechef.com/submit-v2/TEST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:53:08.987Z",
+      "id": 251
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "RCB and Playoffs",
+      "questionUrl": "https://www.codechef.com/submit-v2/RCBPLAY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T11:58:22.128Z",
+      "id": 252
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Lead Game",
+      "questionUrl": "https://www.codechef.com/submit-v2/TLG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T12:18:39.780Z",
+      "id": 253
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lazy Chef",
+      "questionUrl": "https://www.codechef.com/submit-v2/LAZYCHF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T12:22:37.180Z",
+      "id": 254
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Hardest Problem Bet",
+      "questionUrl": "https://www.codechef.com/submit-v2/HARDBET",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T12:40:12.511Z",
+      "id": 255
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Preparations",
+      "questionUrl": "https://www.codechef.com/submit-v2/SUPCHEF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T12:43:08.557Z",
+      "id": 256
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Gross Salary",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW011",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T12:47:33.589Z",
+      "id": 257
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Genes",
+      "questionUrl": "https://www.codechef.com/submit-v2/GENE01",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T13:20:15.744Z",
+      "id": 258
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Good Weather",
+      "questionUrl": "https://www.codechef.com/submit-v2/GOODWEAT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T13:24:27.793Z",
+      "id": 259
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Grade The Steel",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW014",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T13:34:35.355Z",
+      "id": 260
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Is it a VOWEL or CONSONANT",
+      "questionUrl": "https://www.codechef.com/submit-v2/VOWELTB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T13:43:40.201Z",
+      "id": 261
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Which Mixture",
+      "questionUrl": "https://www.codechef.com/submit-v2/MIXTURE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T14:03:48.977Z",
+      "id": 262
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chess Format",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHSFORMT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T14:06:38.777Z",
+      "id": 263
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Body Mass Index",
+      "questionUrl": "https://www.codechef.com/submit-v2/BMI",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T14:18:36.560Z",
+      "id": 264
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Id and Ship",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW010",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T14:42:23.678Z",
+      "id": 265
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Vacation Transportation",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEFTRANS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T15:36:01.397Z",
+      "id": 266
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chefland Visa",
+      "questionUrl": "https://www.codechef.com/submit-v2/VISA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T15:46:07.667Z",
+      "id": 267
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Devendra and Water Sports",
+      "questionUrl": "https://www.codechef.com/submit-v2/DEVSPORTS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T15:48:34.270Z",
+      "id": 268
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Problem Category",
+      "questionUrl": "https://www.codechef.com/submit-v2/PROBCAT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T15:57:15.819Z",
+      "id": 269
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Total Expenses",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW009",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T15:59:44.100Z",
+      "id": 270
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Drunk Alcoholic",
+      "questionUrl": "https://www.codechef.com/submit-v2/DRUNKALK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:08:20.952Z",
+      "id": 271
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef On Island",
+      "questionUrl": "https://www.codechef.com/submit-v2/CCISLAND",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:12:08.814Z",
+      "id": 272
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Gold Mining",
+      "questionUrl": "https://www.codechef.com/submit-v2/CARRYGOLD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:17:18.693Z",
+      "id": 273
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Find the Direction",
+      "questionUrl": "https://www.codechef.com/submit-v2/FACEDIR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:20:25.829Z",
+      "id": 274
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef on Vacation",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEFVACATION",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:25:43.268Z",
+      "id": 275
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Olympics Ranking",
+      "questionUrl": "https://www.codechef.com/submit-v2/OLYRANK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:27:49.183Z",
+      "id": 276
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and SnackDown",
+      "questionUrl": "https://www.codechef.com/submit-v2/SNCKYEAR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:32:40.153Z",
+      "id": 277
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "HOW MANY DIGITS DO I HAVE",
+      "questionUrl": "https://www.codechef.com/submit-v2/HOWMANY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:34:33.686Z",
+      "id": 278
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "A - Save Water Save Life",
+      "questionUrl": "https://www.codechef.com/submit-v2/SAVWATER",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T16:46:38.711Z",
+      "id": 279
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Shoe Fit",
+      "questionUrl": "https://www.codechef.com/submit-v2/SHOEFIT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T17:04:55.017Z",
+      "id": 280
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Penalty Shots",
+      "questionUrl": "https://www.codechef.com/submit-v2/PENALTY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T17:10:13.767Z",
+      "id": 281
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Vaccine Dates",
+      "questionUrl": "https://www.codechef.com/submit-v2/VDATES",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T17:13:34.598Z",
+      "id": 282
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Old Saint And Three Questions",
+      "questionUrl": "https://www.codechef.com/submit-v2/THREEQ",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T17:19:27.665Z",
+      "id": 283
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Marathon",
+      "questionUrl": "https://www.codechef.com/submit-v2/MARARUN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:10:00.382Z",
+      "id": 284
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Two Rooks",
+      "questionUrl": "https://www.codechef.com/submit-v2/TWOROOKS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:13:28.646Z",
+      "id": 285
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Can You Eat It",
+      "questionUrl": "https://www.codechef.com/submit-v2/COMPCAND",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:15:58.509Z",
+      "id": 286
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Cook-Off",
+      "questionUrl": "https://www.codechef.com/submit-v2/CCOOK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:20:55.160Z",
+      "id": 287
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Puppy and Sum",
+      "questionUrl": "https://www.codechef.com/submit-v2/PPSUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-29T18:31:34.716Z",
+      "id": 288
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Spells",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHFSPL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:35:14.112Z",
+      "id": 289
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Cricket Ranking",
+      "questionUrl": "https://www.codechef.com/submit-v2/CRICRANK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:39:08.029Z",
+      "id": 290
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Playing with Matches",
+      "questionUrl": "https://www.codechef.com/submit-v2/MATCHES",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:48:14.089Z",
+      "id": 291
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Can_Reach",
+      "questionUrl": "https://www.codechef.com/submit-v2/CAN_REACH",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:52:13.306Z",
+      "id": 292
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Naive Chef",
+      "questionUrl": "https://www.codechef.com/submit-v2/NAICHEF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T18:59:20.272Z",
+      "id": 293
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Game between friends",
+      "questionUrl": "https://www.codechef.com/submit-v2/FRGAME",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T19:04:43.218Z",
+      "id": 294
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Kitchen Timetable",
+      "questionUrl": "https://www.codechef.com/submit-v2/KTTABLE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-29T19:18:31.387Z",
+      "id": 295
     }
   ]
 }
