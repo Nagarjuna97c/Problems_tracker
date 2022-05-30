@@ -3604,6 +3604,294 @@
       "bookmarked": "no",
       "Date": "2022-05-29T19:18:31.387Z",
       "id": 295
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Problems in your to-do list",
+      "questionUrl": "https://www.codechef.com/submit-v2/TODOLIST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T06:20:08.551Z",
+      "id": 296
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Small factorials",
+      "questionUrl": "https://www.codechef.com/submit-v2/FCTRL2",
+      "notes": "For large values use array an do manual multiplication",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-30T06:24:17.946Z",
+      "id": 297
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Recent contest problems",
+      "questionUrl": "https://www.codechef.com/submit-v2/RECENTCONT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T07:00:07.212Z",
+      "id": 298
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Counting Pretty Numbers",
+      "questionUrl": "https://www.codechef.com/submit-v2/NUM239",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T07:59:15.345Z",
+      "id": 299
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Red Light, Green Light",
+      "questionUrl": "https://www.codechef.com/submit-v2/DOLL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T08:46:54.970Z",
+      "id": 300
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "The Block Game",
+      "questionUrl": "https://www.codechef.com/submit-v2/PALL01",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T08:52:23.389Z",
+      "id": 301
+    },
+    {
+      "topic": [
+        "Array"
+      ],
+      "questionTitle": "Compress the Video",
+      "questionUrl": "https://www.codechef.com/submit-v2/COMPRESSVD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T08:56:13.891Z",
+      "id": 302
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "My very 1st contest!",
+      "questionUrl": "https://www.codechef.com/submit-v2/MY1STCONTEST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T09:00:26.572Z",
+      "id": 303
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Apples and Oranges",
+      "questionUrl": "https://www.codechef.com/submit-v2/APPLORNG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T09:03:15.422Z",
+      "id": 304
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Find Remainder",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW002",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T09:04:26.685Z",
+      "id": 305
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Sum of Digits",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW006",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T09:05:30.350Z",
+      "id": 306
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "First and Last Digit",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW004",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T09:06:13.780Z",
+      "id": 307
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Bucket and Water Flow",
+      "questionUrl": "https://www.codechef.com/submit-v2/WATERFLOW",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T09:09:09.796Z",
+      "id": 308
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Sugarcane Juice Business",
+      "questionUrl": "https://www.codechef.com/submit-v2/SUGARCANE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T09:20:00.595Z",
+      "id": 309
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Reverse The Number",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW007",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-30T09:21:00.487Z",
+      "id": 310
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "GCD and LCM",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW016",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-05-30T10:02:07.256Z",
+      "id": 311
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Chess Ratings",
+      "questionUrl": "https://www.codechef.com/submit-v2/C_RATING",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T10:06:50.781Z",
+      "id": 312
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "A or B",
+      "questionUrl": "https://www.codechef.com/submit-v2/AORB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T10:13:22.939Z",
+      "id": 313
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Black cells in a chessboard",
+      "questionUrl": "https://www.codechef.com/submit-v2/BLACKCEL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T10:15:52.357Z",
+      "id": 314
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Valid Triangles",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW013",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T10:29:06.011Z",
+      "id": 315
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Possible Victory",
+      "questionUrl": "https://www.codechef.com/submit-v2/T20MCH",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T10:32:22.856Z",
+      "id": 316
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Lucky Four",
+      "questionUrl": "https://www.codechef.com/submit-v2/LUCKFOUR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T10:34:58.858Z",
+      "id": 317
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Mutated Minions",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHN15A",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T10:38:26.748Z",
+      "id": 318
+    },
+    {
+      "topic": [
+        "Math"
+      ],
+      "questionTitle": "Primality Test",
+      "questionUrl": "Cars and Bikes",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-30T12:11:56.963Z",
+      "id": 319
     }
   ]
 }
