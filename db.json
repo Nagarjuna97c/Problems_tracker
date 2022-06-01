@@ -1,7 +1,9 @@
 {
   "problemsTracksheet": [
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Concatenation of Array",
       "questionUrl": "https://leetcode.com/problems/concatenation-of-array/",
       "notes": "",
@@ -11,7 +13,9 @@
       "id": 1
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Build Array from Permutation",
       "questionUrl": "https://leetcode.com/problems/build-array-from-permutation/",
       "notes": "https://leetcode.com/problems/build-array-from-permutation/",
@@ -21,7 +25,9 @@
       "id": 2
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Running Sum of 1d Array",
       "questionUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
       "notes": "https://leetcode.com/problems/running-sum-of-1d-array/",
@@ -31,7 +37,9 @@
       "id": 3
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Richest Customer Wealth",
       "questionUrl": "https://leetcode.com/problems/richest-customer-wealth/submissions/",
       "notes": "https://leetcode.com/problems/richest-customer-wealth/submissions/",
@@ -41,7 +49,9 @@
       "id": 4
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Final Value of Variable After Performing Operations",
       "questionUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
       "notes": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
@@ -51,7 +61,9 @@
       "id": 5
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "3Sum",
       "questionUrl": "https://leetcode.com/problems/3sum/",
       "notes": "",
@@ -61,7 +73,11 @@
       "id": 6
     },
     {
-      "topic": ["Array", "Two Pointers", "Sorting"],
+      "topic": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
       "questionTitle": "3Sum Closest",
       "questionUrl": "https://leetcode.com/problems/3sum-closest/",
       "notes": "",
@@ -71,7 +87,11 @@
       "id": 7
     },
     {
-      "topic": ["Array", "Two Pointers", "Sorting"],
+      "topic": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
       "questionTitle": "4Sum",
       "questionUrl": "https://leetcode.com/problems/4sum/",
       "notes": "",
@@ -81,7 +101,10 @@
       "id": 8
     },
     {
-      "topic": ["Array", "Two Pointers"],
+      "topic": [
+        "Array",
+        "Two Pointers"
+      ],
       "questionTitle": "Remove Duplicates from Sorted Array",
       "questionUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
       "notes": "",
@@ -91,7 +114,10 @@
       "id": 9
     },
     {
-      "topic": ["Array", "Two Pointers"],
+      "topic": [
+        "Array",
+        "Two Pointers"
+      ],
       "questionTitle": "Remove Element",
       "questionUrl": "https://leetcode.com/problems/remove-element/",
       "notes": "",
@@ -101,7 +127,10 @@
       "id": 10
     },
     {
-      "topic": ["Array", "Two Pointers"],
+      "topic": [
+        "Array",
+        "Two Pointers"
+      ],
       "questionTitle": "Next Permutation",
       "questionUrl": "https://leetcode.com/problems/next-permutation/",
       "notes": "Check permutation trees",
@@ -111,7 +140,9 @@
       "id": 11
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Print alternate elements of an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1",
       "notes": "",
@@ -121,7 +152,9 @@
       "id": 12
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Value equal to index value",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
       "notes": "",
@@ -131,7 +164,9 @@
       "id": 13
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "C++ Arrays (Sum of array) | Set 1",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/c-arrays-sum-of-array-set-14805/1",
       "notes": "",
@@ -141,7 +176,9 @@
       "id": 14
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Second Largest",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/second-largest3735/1",
       "notes": "second largest element should not be equal to the first element",
@@ -151,7 +188,9 @@
       "id": 15
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Palindromic Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/palindromic-array-1587115620/1",
       "notes": "",
@@ -161,7 +200,9 @@
       "id": 16
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Sum of Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-array2326/1/",
       "notes": "",
@@ -171,7 +212,9 @@
       "id": 17
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Sum of Series",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-series2811/1/",
       "notes": "use the formulae n*(n+1))/2",
@@ -181,7 +224,9 @@
       "id": 18
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "C++ Array (print an element)",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1",
       "notes": "c++ coding only available",
@@ -191,7 +236,9 @@
       "id": 19
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Count of smaller elements",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/count-of-smaller-elements5947/1",
       "notes": "",
@@ -201,7 +248,9 @@
       "id": 20
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Print Elements of Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/print-elements-of-array4910/1",
       "notes": "Use for loop. Looks like destructuring has a limit.",
@@ -211,7 +260,10 @@
       "id": 21
     },
     {
-      "topic": ["Array", "String"],
+      "topic": [
+        "Array",
+        "String"
+      ],
       "questionTitle": "Display longest name",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/display-longest-name0853/1/",
       "notes": "",
@@ -221,7 +273,9 @@
       "id": 22
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Swap kth elements",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-kth-elements5500/1",
       "notes": "",
@@ -231,7 +285,9 @@
       "id": 23
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Find Index",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-index4752/1",
       "notes": "start index and end index can be the same",
@@ -241,7 +297,9 @@
       "id": 24
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "At least two greater elements",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1",
       "notes": "Inbuilt sorting works.Learn a better sorting method.",
@@ -251,7 +309,9 @@
       "id": 25
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Smaller and Larger",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/smaller-and-larger4005/1",
       "notes": "Take note of equal to condition",
@@ -261,7 +321,9 @@
       "id": 26
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Print the left element",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/print-the-left-element2009/1",
       "notes": "Take note of equal to condition",
@@ -271,7 +333,9 @@
       "id": 27
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Perfect Arrays",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1",
       "notes": "",
@@ -281,7 +345,9 @@
       "id": 28
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Fascinating Number",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/fascinating-number3751/1",
       "notes": "",
@@ -291,7 +357,9 @@
       "id": 29
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Average in a stream",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/average4856/1",
       "notes": "",
@@ -301,7 +369,9 @@
       "id": 30
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Java Arrays",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/java-arrays-set-11354/1",
       "notes": "",
@@ -311,7 +381,9 @@
       "id": 31
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Compete the skills",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/compete-the-skills5807/1",
       "notes": "",
@@ -321,7 +393,9 @@
       "id": 32
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "C++ 2-D Arrays | Set-1",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1",
       "notes": "",
@@ -331,7 +405,9 @@
       "id": 33
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Multiply Matrices",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/multiply-matrices/1",
       "notes": "This works for multiplication of rectangle matrices as well",
@@ -341,7 +417,9 @@
       "id": 34
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Sum of elements in a matrix",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1",
       "notes": "",
@@ -351,7 +429,9 @@
       "id": 35
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Toeplitz matrix",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/toeplitz-matrix/1",
       "notes": "",
@@ -361,7 +441,9 @@
       "id": 36
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Identical Matrices",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/identical-matrices1042/1",
       "notes": "",
@@ -371,7 +453,9 @@
       "id": 37
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Find difference between sum of diagonals",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-difference-between-sum-of-diagonals1554/1",
       "notes": "",
@@ -381,7 +465,9 @@
       "id": 38
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Addition of two square matrices",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1",
       "notes": "",
@@ -391,7 +477,9 @@
       "id": 39
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Diagonal sum",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/diagonal-sum0158/1",
       "notes": "",
@@ -401,7 +489,10 @@
       "id": 40
     },
     {
-      "topic": ["String", "Two Pointer"],
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
       "questionTitle": "Extract the integers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/extract-the-integers4428/1",
       "notes": "",
@@ -411,7 +502,9 @@
       "id": 41
     },
     {
-      "topic": ["Permutation"],
+      "topic": [
+        "Permutation"
+      ],
       "questionTitle": "nPr",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/npr4253/1",
       "notes": "",
@@ -421,7 +514,9 @@
       "id": 42
     },
     {
-      "topic": ["Permutation"],
+      "topic": [
+        "Permutation"
+      ],
       "questionTitle": "Find triplets with zero sum",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
       "notes": "Try again after learning hashing",
@@ -431,7 +526,11 @@
       "id": 43
     },
     {
-      "topic": ["Arrays", "Divide and Conquer", "Searching"],
+      "topic": [
+        "Arrays",
+        "Divide and Conquer",
+        "Searching"
+      ],
       "questionTitle": "Binary Search",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1",
       "notes": "",
@@ -441,7 +540,9 @@
       "id": 44
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Rotate by 90 degree",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1",
       "notes": "",
@@ -451,7 +552,11 @@
       "id": 45
     },
     {
-      "topic": ["Array", "Sorting", "Two Pointer"],
+      "topic": [
+        "Array",
+        "Sorting",
+        "Two Pointer"
+      ],
       "questionTitle": "Binary Array Sorting",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1",
       "notes": "do no forget to add the if condition of \"left index should be less than right index\"",
@@ -461,7 +566,9 @@
       "id": 46
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Odd or Even",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/odd-or-even3618/1",
       "notes": "",
@@ -471,7 +578,9 @@
       "id": 47
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Party of Couples",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1",
       "notes": "",
@@ -481,7 +590,9 @@
       "id": 48
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Binary representation",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-representation5003/1",
       "notes": "",
@@ -491,7 +602,9 @@
       "id": 49
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Combinational Logic",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/combinational-logic1908/1",
       "notes": "dot(.) represents AND gate and plus(+) represents OR gate.",
@@ -501,7 +614,9 @@
       "id": 50
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Bit Compression",
       "questionUrl": "https://www.scaler.com/academy/mentee-dashboard/class/24889/homework/problems/13787/?navref=cl_pb_nv_tb",
       "notes": "A[i]^A[j]==(A[i]&A[j])^(A[i]|A[j])",
@@ -511,7 +626,9 @@
       "id": 51
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Power of 2",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1",
       "notes": "New approach--->For numbers equal to power of 2 there is only one set bit",
@@ -521,7 +638,9 @@
       "id": 52
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Bit Difference",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1",
       "notes": "",
@@ -531,7 +650,9 @@
       "id": 53
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Transpose of Matrix",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1",
       "notes": "",
@@ -541,7 +662,9 @@
       "id": 54
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Count zeros in a sorted matrix",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1",
       "notes": "New Approach",
@@ -551,7 +674,9 @@
       "id": 55
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Sorted matrix",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1",
       "notes": "",
@@ -561,7 +686,9 @@
       "id": 56
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Print Matrix in snake Pattern",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1",
       "notes": "",
@@ -571,7 +698,11 @@
       "id": 57
     },
     {
-      "topic": ["Array", "Two Pointer", "Greedy"],
+      "topic": [
+        "Array",
+        "Two Pointer",
+        "Greedy"
+      ],
       "questionTitle": "Ishaan Loves Chocolates",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1",
       "notes": "Did not use greedy algorithm",
@@ -581,7 +712,10 @@
       "id": 58
     },
     {
-      "topic": ["Array", "Two Pointer"],
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
       "questionTitle": "Sort the Half Sorted",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sort-the-half-sorted2157/1",
       "notes": "",
@@ -591,7 +725,10 @@
       "id": 59
     },
     {
-      "topic": ["String", "Two Pointer"],
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
       "questionTitle": "Reverse a string with spaces intact ",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1",
       "notes": "Wrong problem on their end.Line number 30 is a bug",
@@ -601,7 +738,10 @@
       "id": 60
     },
     {
-      "topic": ["String", "Two Pointer"],
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
       "questionTitle": "Message decoding",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/message-decoding4305/1",
       "notes": "",
@@ -611,7 +751,10 @@
       "id": 61
     },
     {
-      "topic": ["Prefix Sum", "Sliding Window"],
+      "topic": [
+        "Prefix Sum",
+        "Sliding Window"
+      ],
       "questionTitle": "Max Sum Subarray of size K",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1",
       "notes": "",
@@ -621,7 +764,10 @@
       "id": 62
     },
     {
-      "topic": ["Binary Representation", "Bit Magic"],
+      "topic": [
+        "Binary Representation",
+        "Bit Magic"
+      ],
       "questionTitle": "Gray Code",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/gray-code4907/1",
       "notes": "Look at binary to gray code conversion videos",
@@ -631,7 +777,10 @@
       "id": 63
     },
     {
-      "topic": ["String", "Binary Representation"],
+      "topic": [
+        "String",
+        "Binary Representation"
+      ],
       "questionTitle": "Check Binary String",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/check-binary-string0402/1",
       "notes": "",
@@ -641,7 +790,9 @@
       "id": 64
     },
     {
-      "topic": ["Binary Representation"],
+      "topic": [
+        "Binary Representation"
+      ],
       "questionTitle": " C++ Nega Bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/c-nega-bit2019/1",
       "notes": "",
@@ -651,7 +802,10 @@
       "id": 65
     },
     {
-      "topic": ["Array", "Prefix Sum"],
+      "topic": [
+        "Array",
+        "Prefix Sum"
+      ],
       "questionTitle": "Longest Equal Prefix",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/longest-equal-prefix3139/1",
       "notes": "",
@@ -661,7 +815,9 @@
       "id": 66
     },
     {
-      "topic": ["Factorial"],
+      "topic": [
+        "Factorial"
+      ],
       "questionTitle": "Strong Numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/strong-numbers3315/1",
       "notes": "",
@@ -671,7 +827,9 @@
       "id": 67
     },
     {
-      "topic": ["Factorial"],
+      "topic": [
+        "Factorial"
+      ],
       "questionTitle": "Krishnamurthy number",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/krishnamurthy-number1323/1",
       "notes": "",
@@ -681,7 +839,9 @@
       "id": 68
     },
     {
-      "topic": ["Factorial"],
+      "topic": [
+        "Factorial"
+      ],
       "questionTitle": "Strong Numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/strong-numbers4336/1",
       "notes": "",
@@ -691,7 +851,9 @@
       "id": 69
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Largest Element in Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1",
       "notes": "",
@@ -701,7 +863,9 @@
       "id": 70
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Cyclically rotate an array by one",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1",
       "notes": "",
@@ -711,7 +875,9 @@
       "id": 71
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Minimum distance between two numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1",
       "notes": "",
@@ -721,7 +887,9 @@
       "id": 72
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Reverse array in groups",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1",
       "notes": "",
@@ -731,7 +899,9 @@
       "id": 73
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Implement stack using array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1",
       "notes": "",
@@ -741,7 +911,9 @@
       "id": 74
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Find minimum and maximum element in an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
       "notes": "",
@@ -751,7 +923,9 @@
       "id": 75
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Search an Element in an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
       "notes": "",
@@ -761,7 +935,9 @@
       "id": 76
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "First and last occurrences of x",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1",
       "notes": "",
@@ -771,7 +947,9 @@
       "id": 77
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Implement Queue using array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1",
       "notes": "",
@@ -781,7 +959,9 @@
       "id": 78
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Third largest element",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/third-largest-element/1",
       "notes": "",
@@ -791,7 +971,9 @@
       "id": 79
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Replace all 0's with 5 ",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1",
       "notes": "",
@@ -801,7 +983,9 @@
       "id": 80
     },
     {
-      "topic": ["Array,Sorting"],
+      "topic": [
+        "Array,Sorting"
+      ],
       "questionTitle": "Maximize sum(arr[i]*i) of an Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array0026/1",
       "notes": "",
@@ -811,7 +995,9 @@
       "id": 81
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Product of array elements",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/product-of-array-element/1",
       "notes": "",
@@ -821,7 +1007,9 @@
       "id": 82
     },
     {
-      "topic": ["Array,Searching"],
+      "topic": [
+        "Array,Searching"
+      ],
       "questionTitle": "Number of occurrence",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1",
       "notes": "",
@@ -831,7 +1019,9 @@
       "id": 83
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Game with nos",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/game-with-nos3123/1",
       "notes": "",
@@ -841,7 +1031,9 @@
       "id": 84
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Maximum in Struct Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-in-struct-array/1",
       "notes": "",
@@ -851,7 +1043,9 @@
       "id": 85
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Pythagorean Triplet",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1",
       "notes": "",
@@ -861,7 +1055,9 @@
       "id": 86
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": " Operating an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/operating-an-array/1",
       "notes": "",
@@ -871,7 +1067,9 @@
       "id": 87
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Product of maximum in first array and minimum in second",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1",
       "notes": "",
@@ -881,7 +1079,9 @@
       "id": 88
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Searching a number",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/searching-a-number0324/1",
       "notes": "",
@@ -891,7 +1091,9 @@
       "id": 89
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Multiply left and right array sum",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1",
       "notes": "",
@@ -901,7 +1103,9 @@
       "id": 90
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Balanced Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/balanced-array07200720/1",
       "notes": "",
@@ -911,7 +1115,10 @@
       "id": 91
     },
     {
-      "topic": ["Array", "Bit Magic"],
+      "topic": [
+        "Array",
+        "Bit Magic"
+      ],
       "questionTitle": "Play With OR",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/play-with-or5515/1",
       "notes": "",
@@ -921,7 +1128,9 @@
       "id": 92
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Fighting the darkness",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1",
       "notes": "",
@@ -931,7 +1140,9 @@
       "id": 93
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Convert array into Zig-Zag fashion",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1",
       "notes": "",
@@ -941,7 +1152,9 @@
       "id": 94
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Find Number of Numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-number-of-numbers/1",
       "notes": "",
@@ -951,7 +1164,9 @@
       "id": 95
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": " Last index of One",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/last-index-of-15847/1",
       "notes": "",
@@ -961,7 +1176,9 @@
       "id": 96
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Play with an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/play-with-an-array/1",
       "notes": "check c++ code",
@@ -971,7 +1188,9 @@
       "id": 97
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Immediate Smaller Element",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1",
       "notes": "",
@@ -981,7 +1200,9 @@
       "id": 98
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Minimize the sum of product",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1",
       "notes": "",
@@ -991,7 +1212,9 @@
       "id": 99
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Total count",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/total-count2415/1",
       "notes": "",
@@ -1001,7 +1224,9 @@
       "id": 100
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Index of first 1 in a sorted array of 0s and 1s",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1",
       "notes": "",
@@ -1011,7 +1236,9 @@
       "id": 101
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Rotating an Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/reversal-algorithm5340/1",
       "notes": "IN PLACE",
@@ -1021,7 +1248,9 @@
       "id": 102
     },
     {
-      "topic": ["Array,Bit Magic"],
+      "topic": [
+        "Array,Bit Magic"
+      ],
       "questionTitle": "Exceptionally odd",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1",
       "notes": "",
@@ -1031,7 +1260,11 @@
       "id": 103
     },
     {
-      "topic": ["Array", "Binary Search", "Searching"],
+      "topic": [
+        "Array",
+        "Binary Search",
+        "Searching"
+      ],
       "questionTitle": " First and last occurrences of X",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1",
       "notes": "",
@@ -1041,7 +1274,9 @@
       "id": 104
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Find the smallest and second smallest element in an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1",
       "notes": "",
@@ -1051,7 +1286,9 @@
       "id": 105
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Java 1-d and 2-d Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/java-1-d-and-2-d-array2952/1",
       "notes": "",
@@ -1061,7 +1298,9 @@
       "id": 106
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Sum Array Puzzle",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1",
       "notes": "",
@@ -1071,7 +1310,9 @@
       "id": 107
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Triplet Family",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/triplet-family/1",
       "notes": "",
@@ -1081,7 +1322,9 @@
       "id": 108
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Quick Left Rotation",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/quick-left-rotation3806/1",
       "notes": "",
@@ -1091,7 +1334,9 @@
       "id": 109
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Swap and Maximize",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1",
       "notes": "",
@@ -1101,7 +1346,9 @@
       "id": 110
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Maximum product of two numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1",
       "notes": "",
@@ -1111,7 +1358,9 @@
       "id": 111
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Greater on right side",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/greater-on-right-side4305/1",
       "notes": "",
@@ -1121,7 +1370,9 @@
       "id": 112
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Magical Number",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/magical-number-1587115620/1",
       "notes": "",
@@ -1131,7 +1382,9 @@
       "id": 113
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Segregate Even and Odd numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1",
       "notes": "",
@@ -1141,7 +1394,9 @@
       "id": 114
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Sum of upper and lower triangles",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1",
       "notes": "",
@@ -1151,7 +1406,9 @@
       "id": 115
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Sums of i-th row and i-th column",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1",
       "notes": "",
@@ -1161,7 +1418,9 @@
       "id": 116
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": " Squares in a Matrix",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/squares-in-a-matrix5716/1",
       "notes": "",
@@ -1171,7 +1430,9 @@
       "id": 117
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Help a Thief!!!",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/help-a-thief5938/1",
       "notes": "",
@@ -1181,7 +1442,9 @@
       "id": 118
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Find position of set bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
       "notes": "",
@@ -1191,7 +1454,9 @@
       "id": 119
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Gray to Binary equivalent",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1",
       "notes": "",
@@ -1201,7 +1466,9 @@
       "id": 120
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Set kth bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1",
       "notes": "",
@@ -1211,7 +1478,9 @@
       "id": 121
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Midori and chocolates",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/midori-and-chocolates2438/1",
       "notes": "Shops start from 1 not 0.",
@@ -1221,7 +1490,9 @@
       "id": 122
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Check set bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/check-set-bits5408/1",
       "notes": "Write code for 0 input",
@@ -1231,7 +1502,9 @@
       "id": 123
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Rotate Bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/rotate-bits4524/1",
       "notes": "16 bit limit should be noted for BOTH left and right rotations.",
@@ -1241,7 +1514,9 @@
       "id": 124
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "1's Complement",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/1s-complement2819/1",
       "notes": "",
@@ -1251,7 +1526,9 @@
       "id": 125
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Swap two nibbles in a byte",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-two-nibbles-in-a-byte0446/1",
       "notes": "nibble is 4 bits",
@@ -1261,7 +1538,9 @@
       "id": 126
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Equal Sum and XOR",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1",
       "notes": "",
@@ -1271,7 +1550,9 @@
       "id": 127
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Change all even bits in a number to 0",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/change-all-even-bits-in-a-number-to-03253/1",
       "notes": "",
@@ -1281,7 +1562,9 @@
       "id": 128
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Toggle bits given range",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/toggle-bits-given-range0952/1",
       "notes": "",
@@ -1291,7 +1574,9 @@
       "id": 129
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Binary Shift to Divide",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-out-the-team0025/1",
       "notes": "",
@@ -1301,7 +1586,9 @@
       "id": 130
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Decimal to binary",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1",
       "notes": "",
@@ -1311,7 +1598,9 @@
       "id": 131
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "XOR of all elements",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/xor-of-all-elements0736/1",
       "notes": "",
@@ -1321,7 +1610,9 @@
       "id": 132
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Parity of unsigned integer",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/parity-of-unsigned-integer4247/1",
       "notes": "",
@@ -1331,7 +1622,9 @@
       "id": 133
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "set-bits and number",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/got-tv-series3124/1",
       "notes": "",
@@ -1341,7 +1634,9 @@
       "id": 134
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Mrs. S- JAVA Bits Set 1",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/mrs-s-java-bits-set-1/1",
       "notes": "",
@@ -1351,7 +1646,9 @@
       "id": 135
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Missing number in shuffled array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1",
       "notes": "",
@@ -1361,7 +1658,9 @@
       "id": 136
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "The OR Gate",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/the-or-gate3122/1",
       "notes": "",
@@ -1371,7 +1670,9 @@
       "id": 137
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Factor OR Multiple",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/factor-or-multiple1128/1",
       "notes": "",
@@ -1381,7 +1682,9 @@
       "id": 138
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "The XOR Gate",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/the-xor-gate0918/1",
       "notes": "",
@@ -1391,7 +1694,9 @@
       "id": 139
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Replace the Bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1",
       "notes": "",
@@ -1401,7 +1706,9 @@
       "id": 140
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Smallest power of 2 greater than or equal to n",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/smallest-power-of-2-greater-than-or-equal-to-n2630/1",
       "notes": "",
@@ -1411,7 +1718,9 @@
       "id": 141
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "One's Complement",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/ones-complement5928/1",
       "notes": "",
@@ -1421,7 +1730,9 @@
       "id": 142
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "XOR Count Zero and One",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/xor-count-zero-and-one2724/1",
       "notes": "",
@@ -1431,7 +1742,9 @@
       "id": 143
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Check whether two numbers differ at one bit position only",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/check-whether-two-numbers-differ-at-one-bit-position-only3415/1",
       "notes": "",
@@ -1441,7 +1754,9 @@
       "id": 144
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "The AND Gate",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/the-and-gate1231/1",
       "notes": "",
@@ -1451,7 +1766,9 @@
       "id": 145
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Sum of Consecutives",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-consecutives1030/1",
       "notes": "",
@@ -1461,7 +1778,9 @@
       "id": 146
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Numbers having alternate bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/product-of-digits4348/1",
       "notes": "used a modified math formula in first submission",
@@ -1471,7 +1790,9 @@
       "id": 147
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Set the rightmost unset bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1",
       "notes": "",
@@ -1481,7 +1802,9 @@
       "id": 148
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "First and last Bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/first-and-last-bit2357/1",
       "notes": "",
@@ -1491,7 +1814,9 @@
       "id": 149
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Binary representation of previous number",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-representation-of-previous-number0638/1",
       "notes": "",
@@ -1501,7 +1826,9 @@
       "id": 150
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "XOR play ",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/xor-play1544/1",
       "notes": "",
@@ -1511,7 +1838,9 @@
       "id": 151
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Invert the Bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/invert-the-bits2942/1",
       "notes": "",
@@ -1521,7 +1850,9 @@
       "id": 152
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Set all odd bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/set-all-odd-bits1900/1",
       "notes": "",
@@ -1531,7 +1862,9 @@
       "id": 153
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Binary representation of next number",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/binary-representation-of-next-number3648/1",
       "notes": "",
@@ -1541,7 +1874,9 @@
       "id": 154
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Number Series",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/number-series3015/1",
       "notes": "",
@@ -1551,7 +1886,9 @@
       "id": 155
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Maximize OR",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/maximize-or0509/1",
       "notes": "",
@@ -1561,7 +1898,9 @@
       "id": 156
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Numbers having alternate bits in range 1 to n",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/numbers-having-alternate-bits-in-range-1-to-n2350/1",
       "notes": "",
@@ -1571,7 +1910,9 @@
       "id": 157
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Subarray with given sum",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1",
       "notes": "",
@@ -1581,7 +1922,9 @@
       "id": 158
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Sum of Products",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-products5049/1",
       "notes": "Sum of each bit of array",
@@ -1591,7 +1934,9 @@
       "id": 159
     },
     {
-      "topic": ["Array,Bit Magic,Searching"],
+      "topic": [
+        "Array,Bit Magic,Searching"
+      ],
       "questionTitle": "Missing number in array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1",
       "notes": "",
@@ -1601,7 +1946,9 @@
       "id": 160
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Find duplicates in an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1",
       "notes": "",
@@ -1611,7 +1958,9 @@
       "id": 161
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Josephus problem",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/josephus-problem/1",
       "notes": "Used recursion",
@@ -1621,7 +1970,9 @@
       "id": 162
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Check whether K-th bit is set or not",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1",
       "notes": "",
@@ -1631,7 +1982,10 @@
       "id": 163
     },
     {
-      "topic": ["Array", "Bit Magic"],
+      "topic": [
+        "Array",
+        "Bit Magic"
+      ],
       "questionTitle": "https://practice.geeksforgeeks.org/problems/even-occurring-elements4332/1",
       "questionUrl": "Even Occurring Elements",
       "notes": "",
@@ -1641,7 +1995,10 @@
       "id": 164
     },
     {
-      "topic": ["Array", "Searching"],
+      "topic": [
+        "Array",
+        "Searching"
+      ],
       "questionTitle": "Peak element",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/peak-element/1",
       "notes": "",
@@ -1651,7 +2008,10 @@
       "id": 165
     },
     {
-      "topic": ["Array", "Prefix Sum"],
+      "topic": [
+        "Array",
+        "Prefix Sum"
+      ],
       "questionTitle": "Equilibrium Point",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1",
       "notes": "",
@@ -1661,7 +2021,10 @@
       "id": 166
     },
     {
-      "topic": ["Array", "Searching"],
+      "topic": [
+        "Array",
+        "Searching"
+      ],
       "questionTitle": "Find Transition Point ",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1",
       "notes": "",
@@ -1671,7 +2034,9 @@
       "id": 167
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Leaders in an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
       "notes": "",
@@ -1681,7 +2046,9 @@
       "id": 168
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Rotate Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
       "notes": "",
@@ -1691,7 +2058,10 @@
       "id": 169
     },
     {
-      "topic": ["Array", "Sorting"],
+      "topic": [
+        "Array",
+        "Sorting"
+      ],
       "questionTitle": "Wave Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1",
       "notes": "",
@@ -1701,7 +2071,10 @@
       "id": 170
     },
     {
-      "topic": ["Array", "Two Pointer"],
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
       "questionTitle": "Remove duplicate elements from sorted Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1",
       "notes": "",
@@ -1711,7 +2084,9 @@
       "id": 171
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Product array puzzle",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1",
       "notes": "",
@@ -1721,7 +2096,10 @@
       "id": 172
     },
     {
-      "topic": ["Array", "Sorting"],
+      "topic": [
+        "Array",
+        "Sorting"
+      ],
       "questionTitle": "Three way partitioning",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
       "notes": "",
@@ -1731,7 +2109,10 @@
       "id": 173
     },
     {
-      "topic": ["Array", "Searching"],
+      "topic": [
+        "Array",
+        "Searching"
+      ],
       "questionTitle": " Index Of an Extra Element",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1",
       "notes": "",
@@ -1741,7 +2122,10 @@
       "id": 174
     },
     {
-      "topic": ["Array", "Stack"],
+      "topic": [
+        "Array",
+        "Stack"
+      ],
       "questionTitle": "Implement two stacks in an array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
       "notes": "",
@@ -1751,7 +2135,9 @@
       "id": 175
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Union of Two Sorted Arrays",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
       "notes": "",
@@ -1761,7 +2147,9 @@
       "id": 176
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Sum of Array Elements",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1",
       "notes": "",
@@ -1771,7 +2159,9 @@
       "id": 177
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Count Odd Even",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/count-odd-even/1",
       "notes": "",
@@ -1781,7 +2171,9 @@
       "id": 178
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Count the Zeros",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1",
       "notes": "",
@@ -1791,7 +2183,10 @@
       "id": 179
     },
     {
-      "topic": ["Array", "Searching"],
+      "topic": [
+        "Array",
+        "Searching"
+      ],
       "questionTitle": "Bitonic Point",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1",
       "notes": "",
@@ -1801,7 +2196,9 @@
       "id": 180
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Alternate positive and negative numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
       "notes": "",
@@ -1811,7 +2208,10 @@
       "id": 181
     },
     {
-      "topic": ["Array", "String"],
+      "topic": [
+        "Array",
+        "String"
+      ],
       "questionTitle": "Longest Common Prefix in an Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
       "notes": "",
@@ -1821,7 +2221,10 @@
       "id": 182
     },
     {
-      "topic": ["Array", "String"],
+      "topic": [
+        "Array",
+        "String"
+      ],
       "questionTitle": "Segregate 0s and 1s",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1",
       "notes": "",
@@ -1831,7 +2234,10 @@
       "id": 183
     },
     {
-      "topic": ["Array", "String"],
+      "topic": [
+        "Array",
+        "String"
+      ],
       "questionTitle": "Plus One",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/plus-one/1",
       "notes": "",
@@ -1841,7 +2247,9 @@
       "id": 184
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Need Some Change",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/need-some-change/1",
       "notes": "",
@@ -1851,7 +2259,11 @@
       "id": 185
     },
     {
-      "topic": ["Array", "Searching", "Binary search"],
+      "topic": [
+        "Array",
+        "Searching",
+        "Binary search"
+      ],
       "questionTitle": "Minimum Number in a sorted rotated array ",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array-1587115620/1",
       "notes": "",
@@ -1861,7 +2273,11 @@
       "id": 186
     },
     {
-      "topic": ["Array", "Searching", "Binary search"],
+      "topic": [
+        "Array",
+        "Searching",
+        "Binary search"
+      ],
       "questionTitle": "Counting elements in two arrays",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1",
       "notes": "Does not work in python",
@@ -1871,7 +2287,9 @@
       "id": 187
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Count Sorted Rows",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/count-sorted-rows2702/1",
       "notes": "",
@@ -1881,7 +2299,9 @@
       "id": 188
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Multiply 2 matrices",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/multiply-2-matrices4144/1",
       "notes": "",
@@ -1891,7 +2311,9 @@
       "id": 189
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Maximum sum of hour glass",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-sum-of-hour-glass3842/1",
       "notes": "",
@@ -1901,7 +2323,9 @@
       "id": 190
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Left Rotate Matrix K times",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/left-rotate-matrix-k-times2351/1",
       "notes": "",
@@ -1911,7 +2335,9 @@
       "id": 191
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Swapping Triangles",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/swapping-triangles5209/1",
       "notes": "",
@@ -1921,7 +2347,9 @@
       "id": 192
     },
     {
-      "topic": ["Matrix"],
+      "topic": [
+        "Matrix"
+      ],
       "questionTitle": "Starting Point",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/starting-point0909/1",
       "notes": "",
@@ -1931,7 +2359,9 @@
       "id": 193
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Find first set bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1",
       "notes": "",
@@ -1941,7 +2371,9 @@
       "id": 194
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Number of 1 Bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/set-bits0143/1",
       "notes": "",
@@ -1951,7 +2383,9 @@
       "id": 195
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Non Repeating Numbers",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
       "notes": "",
@@ -1961,7 +2395,9 @@
       "id": 196
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Rightmost different bit",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1",
       "notes": "",
@@ -1971,7 +2407,9 @@
       "id": 197
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Longest Consecutive 1's",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1",
       "notes": "",
@@ -1981,7 +2419,9 @@
       "id": 198
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Swap all odd and even bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1",
       "notes": "math method and shift method",
@@ -1991,7 +2431,9 @@
       "id": 199
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": " Power Set",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/power-set4302/1",
       "notes": "",
@@ -2001,7 +2443,9 @@
       "id": 200
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Sum of two numbers without using arithmetic operators",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1",
       "notes": "",
@@ -2011,7 +2455,11 @@
       "id": 201
     },
     {
-      "topic": ["Arrays", "Bit Magic", "Sorting"],
+      "topic": [
+        "Arrays",
+        "Bit Magic",
+        "Sorting"
+      ],
       "questionTitle": "Counts Zeros Xor Pairs",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/counts-zeros-xor-pairs0349/1",
       "notes": "",
@@ -2021,7 +2469,9 @@
       "id": 202
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Xoring and Clearing",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/xoring-and-clearing/1",
       "notes": "",
@@ -2031,7 +2481,9 @@
       "id": 203
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Reverse Bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/reverse-bits3556/1",
       "notes": "",
@@ -2041,7 +2493,9 @@
       "id": 204
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Even Subsets",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/even-subsets/1",
       "notes": "",
@@ -2051,7 +2505,9 @@
       "id": 205
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Generate Grey Code Sequences",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1",
       "notes": "",
@@ -2061,7 +2517,9 @@
       "id": 206
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Copy Set Bits in Range",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range0623/1",
       "notes": "",
@@ -2071,7 +2529,9 @@
       "id": 207
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Swap bits",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/swap-bits5726/1",
       "notes": "",
@@ -2081,7 +2541,9 @@
       "id": 208
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Xoring and Clearing - Java",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/xoring-and-clearing-java/1",
       "notes": "",
@@ -2091,7 +2553,9 @@
       "id": 209
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Game of XOR",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/game-of-xor1541/1",
       "notes": "contibution technique",
@@ -2101,7 +2565,9 @@
       "id": 210
     },
     {
-      "topic": ["Bit Magic"],
+      "topic": [
+        "Bit Magic"
+      ],
       "questionTitle": "Count the triplets",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1",
       "notes": "",
@@ -2111,7 +2577,12 @@
       "id": 211
     },
     {
-      "topic": ["Array", "Sliding Window", "Queue", "Two Pointer"],
+      "topic": [
+        "Array",
+        "Sliding Window",
+        "Queue",
+        "Two Pointer"
+      ],
       "questionTitle": "First negative integer in every window of size k",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1",
       "notes": "check again after learning queue",
@@ -2121,7 +2592,10 @@
       "id": 212
     },
     {
-      "topic": ["Array", "Two Pointer"],
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
       "questionTitle": "Pair with given sum in a sorted array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1",
       "notes": "",
@@ -2131,7 +2605,10 @@
       "id": 213
     },
     {
-      "topic": ["Array", "Two Pointer"],
+      "topic": [
+        "Array",
+        "Two Pointer"
+      ],
       "questionTitle": "Four Elements",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/four-elements2452/1",
       "notes": "",
@@ -2141,7 +2618,11 @@
       "id": 214
     },
     {
-      "topic": ["Sliding Window", "String", "Two Pointer"],
+      "topic": [
+        "Sliding Window",
+        "String",
+        "Two Pointer"
+      ],
       "questionTitle": "Smallest window containing 0, 1 and 2",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/d6e88f06b273a60ae83992314ac514f71841a27d/1",
       "notes": "",
@@ -2151,7 +2632,10 @@
       "id": 215
     },
     {
-      "topic": ["String", "Two Pointer"],
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
       "questionTitle": "Special array reversal",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/special-array-reversal2328/1",
       "notes": "",
@@ -2161,7 +2645,10 @@
       "id": 216
     },
     {
-      "topic": ["String", "Two Pointer"],
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
       "questionTitle": "Palindrome Sentence",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1",
       "notes": "",
@@ -2171,7 +2658,11 @@
       "id": 217
     },
     {
-      "topic": ["String", "Two Pointer", "Sliding Window"],
+      "topic": [
+        "String",
+        "Two Pointer",
+        "Sliding Window"
+      ],
       "questionTitle": "Maximum sum of subarray less than or equal to x",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/maximum-sum-of-subarray-less-than-or-equal-to-x4033/1",
       "notes": "",
@@ -2181,7 +2672,10 @@
       "id": 218
     },
     {
-      "topic": ["String", "Two Pointer"],
+      "topic": [
+        "String",
+        "Two Pointer"
+      ],
       "questionTitle": "Length of longest subarray",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/length-of-longest-subarray0440/1",
       "notes": "",
@@ -2191,7 +2685,9 @@
       "id": 219
     },
     {
-      "topic": ["Permutation"],
+      "topic": [
+        "Permutation"
+      ],
       "questionTitle": "Squares in N*N Chessboard",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1",
       "notes": "formula gives the sum of squares until that number",
@@ -2201,7 +2697,9 @@
       "id": 220
     },
     {
-      "topic": ["Permutation"],
+      "topic": [
+        "Permutation"
+      ],
       "questionTitle": "Rectangles in N*N Board",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/rectangles-in-nn-board5930/1",
       "notes": "Solved used pen and paper.Derived formula from test cases.",
@@ -2211,7 +2709,10 @@
       "id": 221
     },
     {
-      "topic": ["Permutation", "String"],
+      "topic": [
+        "Permutation",
+        "String"
+      ],
       "questionTitle": "Colorful Strings",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/geek-and-its-colored-strings1355/1",
       "notes": "",
@@ -2221,7 +2722,10 @@
       "id": 222
     },
     {
-      "topic": ["Permutation", "String"],
+      "topic": [
+        "Permutation",
+        "String"
+      ],
       "questionTitle": "Lexicographically Previous Permutation",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/lexicographically-previous-permutation3620/1",
       "notes": "",
@@ -2231,7 +2735,9 @@
       "id": 223
     },
     {
-      "topic": ["Permutation"],
+      "topic": [
+        "Permutation"
+      ],
       "questionTitle": "Permutations and Sum",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/permutations-and-sum3001/1",
       "notes": "Each char occurs same number of times at each position",
@@ -2241,7 +2747,9 @@
       "id": 224
     },
     {
-      "topic": ["Permutation"],
+      "topic": [
+        "Permutation"
+      ],
       "questionTitle": "Total number of Strings",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/total-number-of-strings5726/1",
       "notes": "usage of combination and the formula derived from it",
@@ -2251,7 +2759,9 @@
       "id": 225
     },
     {
-      "topic": ["Permutation"],
+      "topic": [
+        "Permutation"
+      ],
       "questionTitle": "Min Number of Flips",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/min-number-of-flips3210/1",
       "notes": "",
@@ -2261,7 +2771,10 @@
       "id": 226
     },
     {
-      "topic": ["Binary Representation", "String"],
+      "topic": [
+        "Binary Representation",
+        "String"
+      ],
       "questionTitle": "Check if actual binary representation of a number is palindrome",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/check-if-actual-binary-representation-of-a-number-is-palindrome0624/1",
       "notes": "",
@@ -2271,7 +2784,10 @@
       "id": 227
     },
     {
-      "topic": ["Binary Representation", "Bit Magic"],
+      "topic": [
+        "Binary Representation",
+        "Bit Magic"
+      ],
       "questionTitle": "Check if a number is divisible by 8",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/check-if-a-number-is-divisible-by-83957/1",
       "notes": "a number being divisible by 8 is means it being right shifted 3 times.So its last 3 binary digits should be 0 for it be perfectly divisible by 8.",
@@ -2281,7 +2797,10 @@
       "id": 228
     },
     {
-      "topic": ["Binary Representation", "Array"],
+      "topic": [
+        "Binary Representation",
+        "Array"
+      ],
       "questionTitle": "Faulty wiring and Bulbs",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/faulty-wiring-and-bulbs2939/1",
       "notes": "",
@@ -2291,7 +2810,10 @@
       "id": 229
     },
     {
-      "topic": ["Binary Representation", "String"],
+      "topic": [
+        "Binary Representation",
+        "String"
+      ],
       "questionTitle": "Divisible by 5 or not",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/divisible-by-5-or-not-14509/1",
       "notes": "using modulus method",
@@ -2301,7 +2823,10 @@
       "id": 230
     },
     {
-      "topic": ["Binary Representation", "Bit Magic"],
+      "topic": [
+        "Binary Representation",
+        "Bit Magic"
+      ],
       "questionTitle": "Print all bitwise subsets of a number N",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1",
       "notes": "",
@@ -2311,7 +2836,10 @@
       "id": 231
     },
     {
-      "topic": ["Binary Representation", "String"],
+      "topic": [
+        "Binary Representation",
+        "String"
+      ],
       "questionTitle": "Even Decimal Binary String",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/even-decimal-binary-string4748/1",
       "notes": "",
@@ -2321,7 +2849,10 @@
       "id": 232
     },
     {
-      "topic": ["Array", "Prefix Sum"],
+      "topic": [
+        "Array",
+        "Prefix Sum"
+      ],
       "questionTitle": "Mean of range in array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/mean-of-range-in-array2123/1",
       "notes": "",
@@ -2331,7 +2862,9 @@
       "id": 233
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Smallest subarray with sum greater than x",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
       "notes": "",
@@ -2341,7 +2874,9 @@
       "id": 234
     },
     {
-      "topic": ["Hash"],
+      "topic": [
+        "Hash"
+      ],
       "questionTitle": "Union of two arrays",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1",
       "notes": "",
@@ -2351,7 +2886,9 @@
       "id": 235
     },
     {
-      "topic": ["Data Types"],
+      "topic": [
+        "Data Types"
+      ],
       "questionTitle": "ATM",
       "questionUrl": "https://www.codechef.com/submit-v2/HS08TEST?tab=statement",
       "notes": "",
@@ -2361,7 +2898,9 @@
       "id": 236
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Enormous Input Test",
       "questionUrl": "https://www.codechef.com/submit-v2/INTEST",
       "notes": "",
@@ -2371,7 +2910,9 @@
       "id": 237
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Total Prize Money",
       "questionUrl": "https://www.codechef.com/submit-v2/PRIZEPOOL",
       "notes": "",
@@ -2381,7 +2922,9 @@
       "id": 238
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Practice makes us perfect",
       "questionUrl": "https://www.codechef.com/submit-v2/PRACTICEPERF",
       "notes": "",
@@ -2391,7 +2934,9 @@
       "id": 239
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Score High",
       "questionUrl": "https://www.codechef.com/submit-v2/HIGHSCORE",
       "notes": "",
@@ -2401,7 +2946,9 @@
       "id": 240
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Degree of Polynomial",
       "questionUrl": "https://www.codechef.com/submit-v2/DPOLY",
       "notes": "",
@@ -2411,7 +2958,9 @@
       "id": 241
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Miami GP",
       "questionUrl": "https://www.codechef.com/submit-v2/F1RULE",
       "notes": "",
@@ -2421,7 +2970,9 @@
       "id": 242
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Mahasena",
       "questionUrl": "https://www.codechef.com/submit-v2/AMR15A",
       "notes": "",
@@ -2431,7 +2982,9 @@
       "id": 243
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Finding Square Roots",
       "questionUrl": "https://www.codechef.com/submit-v2/FSQRT",
       "notes": "",
@@ -2441,7 +2994,9 @@
       "id": 244
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Decrement OR Increment",
       "questionUrl": "https://www.codechef.com/submit-v2/DECINC",
       "notes": "",
@@ -2451,7 +3006,9 @@
       "id": 245
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Pass or Fail",
       "questionUrl": "https://www.codechef.com/submit-v2/PASSORFAIL",
       "notes": "",
@@ -2461,7 +3018,9 @@
       "id": 246
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Second Largest",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW017",
       "notes": "",
@@ -2471,7 +3030,9 @@
       "id": 247
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Sum OR Difference",
       "questionUrl": "https://www.codechef.com/submit-v2/DIFFSUM",
       "notes": "",
@@ -2481,7 +3042,9 @@
       "id": 248
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Small Factorial",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW018",
       "notes": "",
@@ -2491,7 +3054,9 @@
       "id": 249
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Helping Chef",
       "questionUrl": "codechef.com/submit-v2/FLOW008",
       "notes": "",
@@ -2501,7 +3066,9 @@
       "id": 250
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Life, the Universe, and Everything",
       "questionUrl": "https://www.codechef.com/submit-v2/TEST",
       "notes": "",
@@ -2511,7 +3078,9 @@
       "id": 251
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "RCB and Playoffs",
       "questionUrl": "https://www.codechef.com/submit-v2/RCBPLAY",
       "notes": "",
@@ -2521,7 +3090,9 @@
       "id": 252
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "The Lead Game",
       "questionUrl": "https://www.codechef.com/submit-v2/TLG",
       "notes": "",
@@ -2531,7 +3102,9 @@
       "id": 253
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Lazy Chef",
       "questionUrl": "https://www.codechef.com/submit-v2/LAZYCHF",
       "notes": "",
@@ -2541,7 +3114,9 @@
       "id": 254
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Hardest Problem Bet",
       "questionUrl": "https://www.codechef.com/submit-v2/HARDBET",
       "notes": "",
@@ -2551,7 +3126,9 @@
       "id": 255
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "The Preparations",
       "questionUrl": "https://www.codechef.com/submit-v2/SUPCHEF",
       "notes": "",
@@ -2561,7 +3138,9 @@
       "id": 256
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Gross Salary",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW011",
       "notes": "",
@@ -2571,7 +3150,9 @@
       "id": 257
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Genes",
       "questionUrl": "https://www.codechef.com/submit-v2/GENE01",
       "notes": "",
@@ -2581,7 +3162,9 @@
       "id": 258
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Good Weather",
       "questionUrl": "https://www.codechef.com/submit-v2/GOODWEAT",
       "notes": "",
@@ -2591,7 +3174,9 @@
       "id": 259
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Grade The Steel",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW014",
       "notes": "",
@@ -2601,7 +3186,9 @@
       "id": 260
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Is it a VOWEL or CONSONANT",
       "questionUrl": "https://www.codechef.com/submit-v2/VOWELTB",
       "notes": "",
@@ -2611,7 +3198,9 @@
       "id": 261
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Which Mixture",
       "questionUrl": "https://www.codechef.com/submit-v2/MIXTURE",
       "notes": "",
@@ -2621,7 +3210,9 @@
       "id": 262
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chess Format",
       "questionUrl": "https://www.codechef.com/submit-v2/CHSFORMT",
       "notes": "",
@@ -2631,7 +3222,9 @@
       "id": 263
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Body Mass Index",
       "questionUrl": "https://www.codechef.com/submit-v2/BMI",
       "notes": "",
@@ -2641,7 +3234,9 @@
       "id": 264
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Id and Ship",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW010",
       "notes": "",
@@ -2651,7 +3246,9 @@
       "id": 265
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chef and Vacation Transportation",
       "questionUrl": "https://www.codechef.com/submit-v2/CHEFTRANS",
       "notes": "",
@@ -2661,7 +3258,9 @@
       "id": 266
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chefland Visa",
       "questionUrl": "https://www.codechef.com/submit-v2/VISA",
       "notes": "",
@@ -2671,7 +3270,9 @@
       "id": 267
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Devendra and Water Sports",
       "questionUrl": "https://www.codechef.com/submit-v2/DEVSPORTS",
       "notes": "",
@@ -2681,7 +3282,9 @@
       "id": 268
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Problem Category",
       "questionUrl": "https://www.codechef.com/submit-v2/PROBCAT",
       "notes": "",
@@ -2691,7 +3294,9 @@
       "id": 269
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Total Expenses",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW009",
       "notes": "",
@@ -2701,7 +3306,9 @@
       "id": 270
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Drunk Alcoholic",
       "questionUrl": "https://www.codechef.com/submit-v2/DRUNKALK",
       "notes": "",
@@ -2711,7 +3318,9 @@
       "id": 271
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chef On Island",
       "questionUrl": "https://www.codechef.com/submit-v2/CCISLAND",
       "notes": "",
@@ -2721,7 +3330,9 @@
       "id": 272
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Gold Mining",
       "questionUrl": "https://www.codechef.com/submit-v2/CARRYGOLD",
       "notes": "",
@@ -2731,7 +3342,9 @@
       "id": 273
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Find the Direction",
       "questionUrl": "https://www.codechef.com/submit-v2/FACEDIR",
       "notes": "",
@@ -2741,7 +3354,9 @@
       "id": 274
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chef on Vacation",
       "questionUrl": "https://www.codechef.com/submit-v2/CHEFVACATION",
       "notes": "",
@@ -2751,7 +3366,9 @@
       "id": 275
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Olympics Ranking",
       "questionUrl": "https://www.codechef.com/submit-v2/OLYRANK",
       "notes": "",
@@ -2761,7 +3378,9 @@
       "id": 276
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chef and SnackDown",
       "questionUrl": "https://www.codechef.com/submit-v2/SNCKYEAR",
       "notes": "",
@@ -2771,7 +3390,9 @@
       "id": 277
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "HOW MANY DIGITS DO I HAVE",
       "questionUrl": "https://www.codechef.com/submit-v2/HOWMANY",
       "notes": "",
@@ -2781,7 +3402,9 @@
       "id": 278
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "A - Save Water Save Life",
       "questionUrl": "https://www.codechef.com/submit-v2/SAVWATER",
       "notes": "",
@@ -2791,7 +3414,9 @@
       "id": 279
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Shoe Fit",
       "questionUrl": "https://www.codechef.com/submit-v2/SHOEFIT",
       "notes": "",
@@ -2801,7 +3426,9 @@
       "id": 280
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Penalty Shots",
       "questionUrl": "https://www.codechef.com/submit-v2/PENALTY",
       "notes": "",
@@ -2811,7 +3438,9 @@
       "id": 281
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Vaccine Dates",
       "questionUrl": "https://www.codechef.com/submit-v2/VDATES",
       "notes": "",
@@ -2821,7 +3450,9 @@
       "id": 282
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "The Old Saint And Three Questions",
       "questionUrl": "https://www.codechef.com/submit-v2/THREEQ",
       "notes": "",
@@ -2831,7 +3462,9 @@
       "id": 283
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Marathon",
       "questionUrl": "https://www.codechef.com/submit-v2/MARARUN",
       "notes": "",
@@ -2841,7 +3474,9 @@
       "id": 284
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Two Rooks",
       "questionUrl": "https://www.codechef.com/submit-v2/TWOROOKS",
       "notes": "",
@@ -2851,7 +3486,9 @@
       "id": 285
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Can You Eat It",
       "questionUrl": "https://www.codechef.com/submit-v2/COMPCAND",
       "notes": "",
@@ -2861,7 +3498,9 @@
       "id": 286
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chef and Cook-Off",
       "questionUrl": "https://www.codechef.com/submit-v2/CCOOK",
       "notes": "",
@@ -2871,7 +3510,9 @@
       "id": 287
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Puppy and Sum",
       "questionUrl": "https://www.codechef.com/submit-v2/PPSUM",
       "notes": "",
@@ -2881,7 +3522,9 @@
       "id": 288
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Chef and Spells",
       "questionUrl": "https://www.codechef.com/submit-v2/CHFSPL",
       "notes": "",
@@ -2891,7 +3534,9 @@
       "id": 289
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Cricket Ranking",
       "questionUrl": "https://www.codechef.com/submit-v2/CRICRANK",
       "notes": "",
@@ -2901,7 +3546,9 @@
       "id": 290
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Playing with Matches",
       "questionUrl": "https://www.codechef.com/submit-v2/MATCHES",
       "notes": "",
@@ -2911,7 +3558,9 @@
       "id": 291
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Can_Reach",
       "questionUrl": "https://www.codechef.com/submit-v2/CAN_REACH",
       "notes": "",
@@ -2921,7 +3570,9 @@
       "id": 292
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Naive Chef",
       "questionUrl": "https://www.codechef.com/submit-v2/NAICHEF",
       "notes": "",
@@ -2931,7 +3582,9 @@
       "id": 293
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Game between friends",
       "questionUrl": "https://www.codechef.com/submit-v2/FRGAME",
       "notes": "",
@@ -2941,7 +3594,9 @@
       "id": 294
     },
     {
-      "topic": ["Basic Programming"],
+      "topic": [
+        "Basic Programming"
+      ],
       "questionTitle": "Kitchen Timetable",
       "questionUrl": "https://www.codechef.com/submit-v2/KTTABLE",
       "notes": "",
@@ -2951,7 +3606,9 @@
       "id": 295
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Problems in your to-do list",
       "questionUrl": "https://www.codechef.com/submit-v2/TODOLIST",
       "notes": "",
@@ -2961,7 +3618,9 @@
       "id": 296
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Small factorials",
       "questionUrl": "https://www.codechef.com/submit-v2/FCTRL2",
       "notes": "For large values use array an do manual multiplication",
@@ -2971,7 +3630,9 @@
       "id": 297
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Recent contest problems",
       "questionUrl": "https://www.codechef.com/submit-v2/RECENTCONT",
       "notes": "",
@@ -2981,7 +3642,9 @@
       "id": 298
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Counting Pretty Numbers",
       "questionUrl": "https://www.codechef.com/submit-v2/NUM239",
       "notes": "",
@@ -2991,7 +3654,9 @@
       "id": 299
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Red Light, Green Light",
       "questionUrl": "https://www.codechef.com/submit-v2/DOLL",
       "notes": "",
@@ -3001,7 +3666,9 @@
       "id": 300
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "The Block Game",
       "questionUrl": "https://www.codechef.com/submit-v2/PALL01",
       "notes": "",
@@ -3011,7 +3678,9 @@
       "id": 301
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Compress the Video",
       "questionUrl": "https://www.codechef.com/submit-v2/COMPRESSVD",
       "notes": "",
@@ -3021,7 +3690,9 @@
       "id": 302
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "My very 1st contest!",
       "questionUrl": "https://www.codechef.com/submit-v2/MY1STCONTEST",
       "notes": "",
@@ -3031,7 +3702,9 @@
       "id": 303
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Apples and Oranges",
       "questionUrl": "https://www.codechef.com/submit-v2/APPLORNG",
       "notes": "",
@@ -3041,7 +3714,9 @@
       "id": 304
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Find Remainder",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW002",
       "notes": "",
@@ -3051,7 +3726,9 @@
       "id": 305
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Sum of Digits",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW006",
       "notes": "",
@@ -3061,7 +3738,9 @@
       "id": 306
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "First and Last Digit",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW004",
       "notes": "",
@@ -3071,7 +3750,9 @@
       "id": 307
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Bucket and Water Flow",
       "questionUrl": "https://www.codechef.com/submit-v2/WATERFLOW",
       "notes": "",
@@ -3081,7 +3762,9 @@
       "id": 308
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Sugarcane Juice Business",
       "questionUrl": "https://www.codechef.com/submit-v2/SUGARCANE",
       "notes": "",
@@ -3091,7 +3774,9 @@
       "id": 309
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Reverse The Number",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW007",
       "notes": "",
@@ -3101,7 +3786,9 @@
       "id": 310
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "GCD and LCM",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW016",
       "notes": "",
@@ -3111,7 +3798,9 @@
       "id": 311
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Chess Ratings",
       "questionUrl": "https://www.codechef.com/submit-v2/C_RATING",
       "notes": "",
@@ -3121,7 +3810,9 @@
       "id": 312
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "A or B",
       "questionUrl": "https://www.codechef.com/submit-v2/AORB",
       "notes": "",
@@ -3131,7 +3822,9 @@
       "id": 313
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Black cells in a chessboard",
       "questionUrl": "https://www.codechef.com/submit-v2/BLACKCEL",
       "notes": "",
@@ -3141,7 +3834,9 @@
       "id": 314
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Valid Triangles",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW013",
       "notes": "",
@@ -3151,7 +3846,9 @@
       "id": 315
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Possible Victory",
       "questionUrl": "https://www.codechef.com/submit-v2/T20MCH",
       "notes": "",
@@ -3161,7 +3858,9 @@
       "id": 316
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Lucky Four",
       "questionUrl": "https://www.codechef.com/submit-v2/LUCKFOUR",
       "notes": "",
@@ -3171,7 +3870,9 @@
       "id": 317
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Mutated Minions",
       "questionUrl": "https://www.codechef.com/submit-v2/CHN15A",
       "notes": "",
@@ -3181,7 +3882,9 @@
       "id": 318
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Primality Test",
       "questionUrl": "Cars and Bikes",
       "notes": "",
@@ -3191,7 +3894,9 @@
       "id": 319
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Primality Test",
       "questionUrl": "https://www.codechef.com/submit-v2/PRB01",
       "notes": "",
@@ -3201,7 +3906,9 @@
       "id": 320
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Circular Track",
       "questionUrl": "https://www.codechef.com/submit-v2/LOOP",
       "notes": "",
@@ -3211,7 +3918,9 @@
       "id": 321
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Smallest Numbers of Notes",
       "questionUrl": "https://www.codechef.com/submit-v2/FLOW005",
       "notes": "",
@@ -3221,7 +3930,9 @@
       "id": 322
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Summer Heat",
       "questionUrl": "https://www.codechef.com/submit-v2/COCONUT",
       "notes": "",
@@ -3231,7 +3942,9 @@
       "id": 323
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Coldplay",
       "questionUrl": "https://www.codechef.com/submit-v2/SLOOP",
       "notes": "",
@@ -3241,7 +3954,9 @@
       "id": 324
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Area OR Perimeter",
       "questionUrl": "https://www.codechef.com/submit-v2/AREAPERI",
       "notes": "",
@@ -3251,7 +3966,9 @@
       "id": 325
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Factorial",
       "questionUrl": "https://www.codechef.com/submit-v2/FCTRL",
       "notes": "",
@@ -3261,7 +3978,9 @@
       "id": 326
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Richie Rich",
       "questionUrl": "https://www.codechef.com/submit-v2/CHFRICH",
       "notes": "",
@@ -3271,7 +3990,9 @@
       "id": 327
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Hidden Numbers",
       "questionUrl": "https://www.codechef.com/submit-v2/UWCOI21A",
       "notes": "",
@@ -3281,7 +4002,9 @@
       "id": 328
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Solubility",
       "questionUrl": "https://www.codechef.com/submit-v2/SOLBLTY",
       "notes": "",
@@ -3291,7 +4014,9 @@
       "id": 329
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Marbles",
       "questionUrl": "https://www.codechef.com/submit-v2/MARBLES",
       "notes": "Think about the partitions or number of ways marbles can be divided",
@@ -3301,7 +4026,9 @@
       "id": 330
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Chef and Remissness",
       "questionUrl": "https://www.codechef.com/submit-v2/REMISS",
       "notes": "",
@@ -3311,7 +4038,9 @@
       "id": 331
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Hoop Jump",
       "questionUrl": "codechef.com/submit-v2/HOOPS",
       "notes": "",
@@ -3321,7 +4050,9 @@
       "id": 332
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Chef and Pairing Slippers",
       "questionUrl": "https://www.codechef.com/submit-v2/CHEFSLP",
       "notes": "",
@@ -3331,7 +4062,9 @@
       "id": 333
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "No Time to Wait",
       "questionUrl": "https://www.codechef.com/submit-v2/NOTIME",
       "notes": "",
@@ -3341,7 +4074,9 @@
       "id": 334
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Back to Campus",
       "questionUrl": "https://www.codechef.com/submit-v2/MINDAYSRET",
       "notes": "",
@@ -3351,7 +4086,9 @@
       "id": 335
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Ciel and Receipt",
       "questionUrl": "https://www.codechef.com/submit-v2/CIELRCPT",
       "notes": "",
@@ -3361,7 +4098,9 @@
       "id": 336
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Farmer And His Plot",
       "questionUrl": "https://www.codechef.com/submit-v2/RECTSQ",
       "notes": "",
@@ -3371,7 +4110,9 @@
       "id": 337
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Two vs Ten",
       "questionUrl": "https://www.codechef.com/submit-v2/TWOVSTEN",
       "notes": "",
@@ -3381,7 +4122,9 @@
       "id": 338
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Car Range",
       "questionUrl": "https://www.codechef.com/submit-v2/CARRANGE",
       "notes": "",
@@ -3391,7 +4134,9 @@
       "id": 339
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "The Begining Era Of Cyberverse",
       "questionUrl": "https://www.codechef.com/submit-v2/CYBV",
       "notes": "",
@@ -3401,7 +4146,9 @@
       "id": 340
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Fit Squares in Triangle",
       "questionUrl": "https://www.codechef.com/submit-v2/TRISQ",
       "notes": "",
@@ -3411,7 +4158,9 @@
       "id": 341
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Lucky Four",
       "questionUrl": "https://www.codechef.com/submit-v2/LUCKYFR",
       "notes": "",
@@ -3421,7 +4170,9 @@
       "id": 342
     },
     {
-      "topic": ["Math"],
+      "topic": [
+        "Math"
+      ],
       "questionTitle": "Chess Match",
       "questionUrl": "https://www.codechef.com/submit-v2/BLITZ3_2",
       "notes": "",
@@ -3431,7 +4182,9 @@
       "id": 343
     },
     {
-      "topic": ["Array"],
+      "topic": [
+        "Array"
+      ],
       "questionTitle": "Turbo Sort",
       "questionUrl": "https://www.codechef.com/submit-v2/TSORT",
       "notes": "",
@@ -3439,6 +4192,402 @@
       "bookmarked": "no",
       "Date": "2022-05-31T08:02:12.248Z",
       "id": 344
+    },
+    {
+      "topic": [
+        "Algorithms"
+      ],
+      "questionTitle": "Add Two Numbers",
+      "questionUrl": "https://www.codechef.com/submit-v2/FLOW001",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T13:44:28.124Z",
+      "id": 345
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "How many unattempted problems",
+      "questionUrl": "https://www.codechef.com/submit-v2/PRACLIST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T13:46:08.174Z",
+      "id": 346
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Who is taller!",
+      "questionUrl": "https://www.codechef.com/submit-v2/TALLER",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T13:47:59.507Z",
+      "id": 347
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Roller Coaster",
+      "questionUrl": "https://www.codechef.com/submit-v2/MINHEIGHT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T13:49:33.922Z",
+      "id": 348
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Second Max of Three Numbers",
+      "questionUrl": "https://www.codechef.com/submit-v2/SNDMAX",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T13:52:06.837Z",
+      "id": 349
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Get Subscription",
+      "questionUrl": "https://www.codechef.com/submit-v2/SUBSCRIBE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T13:58:17.294Z",
+      "id": 350
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Chapters",
+      "questionUrl": "https://www.codechef.com/submit-v2/SEMCOURSES",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T13:59:30.945Z",
+      "id": 351
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Water Requirement",
+      "questionUrl": "https://www.codechef.com/submit-v2/WATERREQ",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T14:32:29.572Z",
+      "id": 352
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lunchtime",
+      "questionUrl": "https://www.codechef.com/submit-v2/LTIME",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T14:33:43.088Z",
+      "id": 353
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef gives Party",
+      "questionUrl": "https://www.codechef.com/submit-v2/PARTY2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-05-31T16:22:57.987Z",
+      "id": 354
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Email Reminders",
+      "questionUrl": "https://www.codechef.com/submit-v2/EMAILREM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T00:59:42.975Z",
+      "id": 355
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Six Friends",
+      "questionUrl": "https://www.codechef.com/submit-v2/SIXFRIENDS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:01:50.142Z",
+      "id": 356
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Cheaper Cab",
+      "questionUrl": "https://www.codechef.com/submit-v2/CABS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:04:28.824Z",
+      "id": 357
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Volume Control",
+      "questionUrl": "https://www.codechef.com/submit-v2/VOLCONTROL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:05:42.391Z",
+      "id": 358
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Football Cup",
+      "questionUrl": "https://www.codechef.com/submit-v2/FOOTCUP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:08:15.823Z",
+      "id": 359
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Fill the Bucket",
+      "questionUrl": "https://www.codechef.com/submit-v2/FBC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:09:36.140Z",
+      "id": 360
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Ezio and Guards",
+      "questionUrl": "https://www.codechef.com/submit-v2/MANIPULATE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:11:08.557Z",
+      "id": 361
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Masks",
+      "questionUrl": "https://www.codechef.com/submit-v2/CMASKS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:50:28.732Z",
+      "id": 362
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Expiring Bread",
+      "questionUrl": "https://www.codechef.com/submit-v2/EXPIRY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:52:08.318Z",
+      "id": 363
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Tyre problem",
+      "questionUrl": "https://www.codechef.com/submit-v2/TYRE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:54:11.800Z",
+      "id": 364
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Instant Noodles",
+      "questionUrl": "https://www.codechef.com/submit-v2/INSTNOODLE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T01:55:34.917Z",
+      "id": 365
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Monthly Budget",
+      "questionUrl": "https://www.codechef.com/submit-v2/BUDGET_",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:09:20.012Z",
+      "id": 366
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Transform the Expression",
+      "questionUrl": "https://www.codechef.com/submit-v2/ONP",
+      "notes": "Using two lists",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-01T03:10:04.361Z",
+      "id": 367
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Credit score",
+      "questionUrl": "https://www.codechef.com/submit-v2/CREDSCORE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:14:09.460Z",
+      "id": 368
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Course Registration",
+      "questionUrl": "https://www.codechef.com/submit-v2/COURSEREG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:16:13.077Z",
+      "id": 369
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Increase IQ",
+      "questionUrl": "https://www.codechef.com/submit-v2/INCRIQ",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:17:54.442Z",
+      "id": 370
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Battery Low",
+      "questionUrl": "https://www.codechef.com/submit-v2/BATTERYLOW",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:19:05.905Z",
+      "id": 371
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Mango Truck",
+      "questionUrl": "https://www.codechef.com/submit-v2/MANGOES",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:20:34.855Z",
+      "id": 372
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Dominant Army",
+      "questionUrl": "https://www.codechef.com/submit-v2/DOMINANT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:24:32.839Z",
+      "id": 373
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Chocolates",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEFCHOCO",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:26:08.622Z",
+      "id": 374
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Gym",
+      "questionUrl": "https://www.codechef.com/submit-v2/CGYM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:28:06.254Z",
+      "id": 375
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Best Coupon",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEAPFOOD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:30:53.285Z",
+      "id": 376
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Cooler Dilemma 1",
+      "questionUrl": "https://www.codechef.com/submit-v2/WATERCOOLER1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-01T03:35:17.880Z",
+      "id": 377
     }
   ]
 }
