@@ -5500,6 +5500,498 @@
       "bookmarked": "no",
       "Date": "2022-06-02T09:51:59.768Z",
       "id": 453
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Path Parity",
+      "questionUrl": "https://www.codechef.com/submit-v2/PATHPAR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-02T13:52:37.317Z",
+      "id": 454
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "ATM Machine",
+      "questionUrl": "https://www.codechef.com/submit-v2/ATM2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-02T13:58:10.443Z",
+      "id": 455
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Programming Languages",
+      "questionUrl": "https://www.codechef.com/submit-v2/PROGLANG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-02T14:05:45.500Z",
+      "id": 456
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Dolls",
+      "questionUrl": "https://www.codechef.com/submit-v2/MISSP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-02T14:16:07.899Z",
+      "id": 457
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "How much Scholarship",
+      "questionUrl": "https://www.codechef.com/submit-v2/ZCOSCH",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-02T14:18:54.510Z",
+      "id": 458
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Snake Procession",
+      "questionUrl": "https://www.codechef.com/submit-v2/SNAKPROC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T03:47:46.328Z",
+      "id": 459
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Packaging Cupcakes",
+      "questionUrl": "https://www.codechef.com/submit-v2/MUFFINS3",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T03:51:51.923Z",
+      "id": 460
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef Diet",
+      "questionUrl": "https://www.codechef.com/submit-v2/DIET",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T04:40:25.255Z",
+      "id": 461
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Encoding Message",
+      "questionUrl": "https://www.codechef.com/submit-v2/ENCMSG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T09:02:55.816Z",
+      "id": 462
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Program Your Own CALCULATOR",
+      "questionUrl": "https://www.codechef.com/submit-v2/URCALC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T09:05:30.767Z",
+      "id": 463
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Bear and Candies 123",
+      "questionUrl": "https://www.codechef.com/submit-v2/CANDY123",
+      "notes": "check the usage of formula",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-03T09:25:30.217Z",
+      "id": 464
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Elections in Chefland",
+      "questionUrl": "https://www.codechef.com/submit-v2/ELECTIONS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T10:16:50.673Z",
+      "id": 465
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Buying New Tablet",
+      "questionUrl": "https://www.codechef.com/submit-v2/TABLET",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T10:23:57.381Z",
+      "id": 466
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Even-tual Reduction",
+      "questionUrl": "https://www.codechef.com/submit-v2/EVENTUAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T10:31:17.619Z",
+      "id": 467
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Subarrays",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEFARRP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T12:36:40.426Z",
+      "id": 468
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Airline Restrictions",
+      "questionUrl": "https://www.codechef.com/submit-v2/AIRLINE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T12:41:08.145Z",
+      "id": 469
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Airline Restrictions",
+      "questionUrl": "https://www.codechef.com/submit-v2/AIRLINE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T13:07:27.722Z",
+      "id": 470
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Weight Balance",
+      "questionUrl": "https://www.codechef.com/submit-v2/WEIGHTBL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T13:53:06.430Z",
+      "id": 471
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Cutting Recipes",
+      "questionUrl": "https://www.codechef.com/submit-v2/RECIPE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-03T14:05:13.096Z",
+      "id": 472
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and his Students",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEFSTUD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T05:46:03.014Z",
+      "id": 473
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Game with Sequence",
+      "questionUrl": "https://www.codechef.com/submit-v2/L56GAME",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T06:13:02.606Z",
+      "id": 474
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Minimum Attendance Requirement",
+      "questionUrl": "https://www.codechef.com/submit-v2/ATTENDU",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T06:33:44.211Z",
+      "id": 475
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Candy Love",
+      "questionUrl": "https://www.codechef.com/submit-v2/CNDLOVE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T06:36:45.034Z",
+      "id": 476
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Equal Card Game",
+      "questionUrl": "https://www.codechef.com/submit-v2/EQCARDGAME",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T06:39:24.915Z",
+      "id": 477
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Change It",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHNGIT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T06:52:48.776Z",
+      "id": 478
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Devu and friendship testing",
+      "questionUrl": "https://www.codechef.com/submit-v2/CFRTEST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T06:57:33.324Z",
+      "id": 479
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Food Chain",
+      "questionUrl": "https://www.codechef.com/submit-v2/FODCHAIN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T07:13:20.184Z",
+      "id": 480
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lost Weekends",
+      "questionUrl": "https://www.codechef.com/submit-v2/LOSTWKND",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T10:16:12.261Z",
+      "id": 481
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Mask Policy",
+      "questionUrl": "https://www.codechef.com/submit-v2/MASKPOL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T10:34:56.468Z",
+      "id": 482
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Hungry Ashish",
+      "questionUrl": "https://www.codechef.com/submit-v2/PIZZA_BURGER",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T10:37:47.744Z",
+      "id": 483
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "String protocol",
+      "questionUrl": "https://www.codechef.com/submit-v2/STRP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T11:01:52.183Z",
+      "id": 484
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Tanu and Head-bob",
+      "questionUrl": "https://www.codechef.com/submit-v2/HEADBOB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T11:05:40.715Z",
+      "id": 485
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "From heaven to earth",
+      "questionUrl": "https://www.codechef.com/submit-v2/ELEVSTRS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T11:10:51.955Z",
+      "id": 486
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Pseudo Sorted Array",
+      "questionUrl": "https://www.codechef.com/submit-v2/PSEUDOSORT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T11:17:20.804Z",
+      "id": 487
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Stock Prices",
+      "questionUrl": "https://www.codechef.com/submit-v2/CSTOCK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T11:25:12.675Z",
+      "id": 488
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Binary String Cost",
+      "questionUrl": "https://www.codechef.com/submit-v2/BSCOST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-04T11:29:41.058Z",
+      "id": 489
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Three Friends",
+      "questionUrl": "https://www.codechef.com/submit-v2/THREEFR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-04T15:00:43.972Z",
+      "id": 490
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Coins And Triangle",
+      "questionUrl": "https://www.codechef.com/submit-v2/TRICOIN",
+      "notes": "quadratic equation formulae",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-05T02:54:39.169Z",
+      "id": 491
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Attack of Queen",
+      "questionUrl": "https://www.codechef.com/submit-v2/QUEENATTACK",
+      "notes": "used pen and paper, https://www.codechef.com/viewsolution/65731661",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-05T07:58:01.710Z",
+      "id": 492
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Covid and Theatre Tickets",
+      "questionUrl": "https://www.codechef.com/submit-v2/COVID_19",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-06T01:05:58.349Z",
+      "id": 493
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Digit Sum Parities",
+      "questionUrl": "https://www.codechef.com/submit-v2/DIGSMPAR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-06T01:16:18.488Z",
+      "id": 494
     }
   ]
 }
