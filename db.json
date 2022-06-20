@@ -6136,6 +6136,210 @@
       "bookmarked": "no",
       "Date": "2022-06-07T12:05:40.009Z",
       "id": 506
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Equal Strings",
+      "questionUrl": "https://www.codechef.com/submit-v2/EQUALSTRING",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-18T10:52:13.701Z",
+      "id": 507
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Divisible by i",
+      "questionUrl": "https://www.codechef.com/submit-v2/DIVBYI",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-18T11:15:34.171Z",
+      "id": 508
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Motivation",
+      "questionUrl": "https://www.codechef.com/submit-v2/IMDB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T08:48:32.460Z",
+      "id": 509
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Friends Meetup",
+      "questionUrl": "https://www.codechef.com/submit-v2/FRIMEET",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T08:55:48.042Z",
+      "id": 510
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Ada and crayons",
+      "questionUrl": "https://www.codechef.com/submit-v2/ADACRA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T09:24:57.351Z",
+      "id": 511
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Serves",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHSERVE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-19T09:49:28.899Z",
+      "id": 512
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Football",
+      "questionUrl": "https://www.codechef.com/submit-v2/MSNSADM1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T12:34:01.964Z",
+      "id": 513
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Laptop Recommendation",
+      "questionUrl": "https://www.codechef.com/submit-v2/LAPTOPREC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T12:44:50.271Z",
+      "id": 514
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Glove",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEGLOVE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T13:11:37.249Z",
+      "id": 515
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Weird Modulo Problem",
+      "questionUrl": "https://www.codechef.com/submit-v2/EXUNA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T13:48:04.783Z",
+      "id": 516
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The One Where It All Began",
+      "questionUrl": "https://www.codechef.com/submit-v2/S01E01",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T14:14:56.692Z",
+      "id": 517
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Playing with Strings",
+      "questionUrl": "https://www.codechef.com/submit-v2/PLAYSTR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T15:13:43.423Z",
+      "id": 518
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef vs Doof",
+      "questionUrl": "https://www.codechef.com/submit-v2/CLLCM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T15:45:12.513Z",
+      "id": 519
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Dividing Stamps",
+      "questionUrl": "https://www.codechef.com/submit-v2/DIVIDING",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T16:58:19.665Z",
+      "id": 520
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "N Queens Puzzle Solved !",
+      "questionUrl": "https://www.codechef.com/submit-v2/EUREKA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-19T23:59:32.531Z",
+      "id": 521
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Steps",
+      "questionUrl": "https://www.codechef.com/submit-v2/CHEFSTEP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-20T01:10:20.259Z",
+      "id": 522
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lucky Boundaries",
+      "questionUrl": "https://www.codechef.com/submit-v2/ICM0013",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-20T01:56:37.212Z",
+      "id": 523
     }
   ]
 }
