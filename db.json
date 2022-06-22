@@ -6868,6 +6868,114 @@
       "bookmarked": "no",
       "Date": "2022-06-21T11:20:13.958Z",
       "id": 567
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Bear and Segment 01",
+      "questionUrl": "https://www.codechef.com/submit-v2/SEGM01",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T00:05:53.168Z",
+      "id": 568
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "AND Plus OR",
+      "questionUrl": "https://www.codechef.com/submit-v2/ANDOR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T00:18:50.436Z",
+      "id": 569
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Find Your Gift",
+      "questionUrl": "https://www.codechef.com/submit-v2/GIFTSRC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T00:36:09.342Z",
+      "id": 570
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Diagonal movement",
+      "questionUrl": "https://www.codechef.com/submit-v2/DIAGMOVE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T01:22:54.649Z",
+      "id": 571
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lapindromes",
+      "questionUrl": "https://www.codechef.com/submit-v2/LAPIN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T02:00:23.628Z",
+      "id": 572
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Large Square",
+      "questionUrl": "https://www.codechef.com/submit-v2/XLSQUARE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T02:07:52.348Z",
+      "id": 573
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lazy Salesman",
+      "questionUrl": "https://www.codechef.com/submit-v2/HOLIDAYS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T02:12:29.198Z",
+      "id": 574
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Infernos",
+      "questionUrl": "https://www.codechef.com/submit-v2/INFERNO",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T02:33:30.594Z",
+      "id": 575
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Good Joke!",
+      "questionUrl": "https://www.codechef.com/submit-v2/RRJOKE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T02:57:16.488Z",
+      "id": 576
     }
   ]
 }
