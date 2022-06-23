@@ -7216,6 +7216,102 @@
       "bookmarked": "no",
       "Date": "2022-06-23T03:22:58.172Z",
       "id": 596
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef and Number Game",
+      "questionUrl": "https://www.codechef.com/submit/CHNUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T04:39:51.294Z",
+      "id": 597
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Buy1-Get1",
+      "questionUrl": "https://www.codechef.com/submit/BUY1GET1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T04:59:04.084Z",
+      "id": 598
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Ups and Downs",
+      "questionUrl": "https://www.codechef.com/submit/ANUUND",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-23T05:15:41.653Z",
+      "id": 599
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Trace of Matrix",
+      "questionUrl": "https://www.codechef.com/submit/TRACE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-06-23T07:52:57.161Z",
+      "id": 600
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef and Feedback",
+      "questionUrl": "https://www.codechef.com/submit/ERROR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T08:01:17.174Z",
+      "id": 601
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "A Problem on Sticks",
+      "questionUrl": "https://www.codechef.com/submit/TREE2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T08:11:46.771Z",
+      "id": 602
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "How Many Maximums",
+      "questionUrl": "https://www.codechef.com/submit/HOWMANYMAX",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T10:47:14.551Z",
+      "id": 603
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Average Number",
+      "questionUrl": "https://www.codechef.com/submit/AVG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T11:01:07.332Z",
+      "id": 604
     }
   ]
 }
