@@ -7120,6 +7120,102 @@
       "bookmarked": "no",
       "Date": "2022-06-22T12:20:57.590Z",
       "id": 588
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The product mystery",
+      "questionUrl": "https://www.codechef.com/submit/PRODUCT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T13:59:32.179Z",
+      "id": 589
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Count of Maximum",
+      "questionUrl": "https://www.codechef.com/submit/MAXCOUNT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T14:08:03.754Z",
+      "id": 590
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Pawri Meme",
+      "questionUrl": "https://www.codechef.com/submit/PAWRI",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T14:11:36.834Z",
+      "id": 591
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Three Boxes",
+      "questionUrl": "https://www.codechef.com/submit/THREEBOX",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T14:34:10.914Z",
+      "id": 592
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "A Balanced Contest",
+      "questionUrl": "https://www.codechef.com/submit/PERFCONT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-22T14:59:10.015Z",
+      "id": 593
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Cook-Off Contests",
+      "questionUrl": "https://www.codechef.com/submit/C00K0FF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T02:19:42.794Z",
+      "id": 594
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Work",
+      "questionUrl": "https://www.codechef.com/submit/CHEFNWRK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T02:55:09.702Z",
+      "id": 595
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Train Partner",
+      "questionUrl": "https://www.codechef.com/submit/ANKTRAIN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-06-23T03:22:58.172Z",
+      "id": 596
     }
   ]
 }
