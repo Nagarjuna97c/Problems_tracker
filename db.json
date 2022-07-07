@@ -8020,6 +8020,366 @@
       "bookmarked": "no",
       "Date": "2022-07-01T11:28:37.761Z",
       "id": 663
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Permutation And Median",
+      "questionUrl": "https://www.codechef.com/submit/PER_MED",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-04T07:45:39.112Z",
+      "id": 664
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Breaking Bricks",
+      "questionUrl": "https://www.codechef.com/submit/BRKBKS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T05:19:34.231Z",
+      "id": 665
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Lift Requests",
+      "questionUrl": "https://www.codechef.com/submit/LIFTME",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T07:15:09.006Z",
+      "id": 666
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Walk",
+      "questionUrl": "https://www.codechef.com/submit/WALK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T07:58:19.196Z",
+      "id": 667
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Jewels and Stones",
+      "questionUrl": "https://www.codechef.com/submit/STONES",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T08:04:23.411Z",
+      "id": 668
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Subtraction Game 1",
+      "questionUrl": "https://www.codechef.com/submit/AMSGAME1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T08:11:09.548Z",
+      "id": 669
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Avoid Fixed Points",
+      "questionUrl": "https://www.codechef.com/submit/NOFIX",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T08:26:52.618Z",
+      "id": 670
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef and Demonetisation",
+      "questionUrl": "https://www.codechef.com/submit/CHFMOT18",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T08:42:17.289Z",
+      "id": 671
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Split the Str Ing",
+      "questionUrl": "https://www.codechef.com/submit/SPLITIT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T08:48:24.163Z",
+      "id": 672
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Tourist Translations",
+      "questionUrl": "https://www.codechef.com/submit/TOTR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T09:04:51.102Z",
+      "id": 673
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Little Chef and Sums",
+      "questionUrl": "https://www.codechef.com/submit/CHEFSUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T10:45:04.296Z",
+      "id": 674
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef-Detective",
+      "questionUrl": "https://www.codechef.com/submit/CHEFDETE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-05T12:30:39.107Z",
+      "id": 675
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "The Two Dishes",
+      "questionUrl": "https://www.codechef.com/submit/MAX_DIFF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T04:32:34.122Z",
+      "id": 676
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Geometric Mean Inequality",
+      "questionUrl": "https://www.codechef.com/submit/GMINEQ",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T04:45:06.772Z",
+      "id": 677
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef and the Wildcard Matching",
+      "questionUrl": "https://www.codechef.com/submit/TWOSTR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T06:34:08.104Z",
+      "id": 678
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef and Notebooks",
+      "questionUrl": "https://www.codechef.com/submit/CNOTE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T07:09:32.356Z",
+      "id": 679
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef and Memory Limit",
+      "questionUrl": "https://www.codechef.com/submit/CBARG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T07:17:16.778Z",
+      "id": 680
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Golf",
+      "questionUrl": "https://www.codechef.com/submit/LKDNGOLF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T07:37:34.652Z",
+      "id": 681
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Open the Dragon Scroll",
+      "questionUrl": "https://www.codechef.com/submit/DRAGNXOR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T08:21:24.140Z",
+      "id": 682
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "A Big Sale",
+      "questionUrl": "https://www.codechef.com/submit/BIGSALE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T10:50:23.129Z",
+      "id": 683
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Hiring Test",
+      "questionUrl": "https://www.codechef.com/submit/HIRETEST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-06T12:07:40.825Z",
+      "id": 684
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Sticks",
+      "questionUrl": "https://www.codechef.com/submit/STICKS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T04:25:33.759Z",
+      "id": 685
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Little Elephant and Permutations",
+      "questionUrl": "https://www.codechef.com/submit/LEPERMUT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T05:40:09.642Z",
+      "id": 686
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Distinct Binary Strings",
+      "questionUrl": "https://www.codechef.com/submit/BINSTRING",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T05:58:26.807Z",
+      "id": 687
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Gasoline Introduction",
+      "questionUrl": "https://www.codechef.com/submit/BEGGASOL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T06:50:31.922Z",
+      "id": 688
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Chef and Subset Additions",
+      "questionUrl": "https://www.codechef.com/submit/SUBSTADD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T07:05:30.127Z",
+      "id": 689
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Carvans",
+      "questionUrl": "https://www.codechef.com/submit/CARVANS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T09:16:09.239Z",
+      "id": 690
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Pushpa",
+      "questionUrl": "https://www.codechef.com/submit/PUSH7PA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T09:53:06.410Z",
+      "id": 691
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Minimum Deletions",
+      "questionUrl": "https://www.codechef.com/submit/RD19",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T10:52:59.081Z",
+      "id": 692
+    },
+    {
+      "topic": [
+        "Basic Progaramming"
+      ],
+      "questionTitle": "Make them equal",
+      "questionUrl": "https://www.codechef.com/submit/MAKEEQUAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-07T11:46:34.793Z",
+      "id": 693
     }
   ]
 }
