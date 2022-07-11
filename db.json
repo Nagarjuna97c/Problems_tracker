@@ -8596,6 +8596,162 @@
       "bookmarked": "no",
       "Date": "2022-07-08T11:07:50.083Z",
       "id": 711
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Beat the Average",
+      "questionUrl": "https://www.codechef.com/submit/ABOVEAVG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-08T13:38:00.845Z",
+      "id": 712
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Hard Sequence",
+      "questionUrl": "https://www.codechef.com/submit/HRDSEQ",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-08T14:47:36.693Z",
+      "id": 713
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Matrix Game",
+      "questionUrl": "https://www.codechef.com/submit/ICL1801",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-09T11:31:32.967Z",
+      "id": 714
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Fancy Quotes",
+      "questionUrl": "codechef.com/submit/FANCY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-09T11:44:04.108Z",
+      "id": 715
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Copy-Paste",
+      "questionUrl": "https://www.codechef.com/submit/RRCOPY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-09T11:47:49.184Z",
+      "id": 716
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Pal",
+      "questionUrl": "https://www.codechef.com/submit/ANTIPAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-09T12:14:38.415Z",
+      "id": 717
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Max power",
+      "questionUrl": "https://www.codechef.com/submit/MAX2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-07-09T12:24:59.994Z",
+      "id": 718
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef And His Characters",
+      "questionUrl": "https://www.codechef.com/submit/CHEFCHR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-09T12:54:14.345Z",
+      "id": 719
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Spell Bob",
+      "questionUrl": "https://www.codechef.com/submit/SPELLBOB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-09T14:25:27.214Z",
+      "id": 720
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Print Pattern",
+      "questionUrl": "https://www.codechef.com/submit/PPATTERN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-10T05:54:04.592Z",
+      "id": 721
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Longest Common Pattern",
+      "questionUrl": "https://www.codechef.com/submit/LCPESY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-10T06:40:12.918Z",
+      "id": 722
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Favourite String of Chef",
+      "questionUrl": "https://www.codechef.com/submit/CHEFFAV",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-10T06:58:19.586Z",
+      "id": 723
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Little Elephant and Bombs",
+      "questionUrl": "https://www.codechef.com/submit/LEBOMBS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-10T08:22:47.919Z",
+      "id": 724
     }
   ]
 }
