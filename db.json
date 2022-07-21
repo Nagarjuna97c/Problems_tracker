@@ -9052,6 +9052,42 @@
       "bookmarked": "no",
       "Date": "2022-07-20T10:39:25.651Z",
       "id": 749
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Isolation Centers",
+      "questionUrl": "https://www.codechef.com/submit/CORUS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-20T13:59:37.088Z",
+      "id": 750
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Smallest Possible Whole Number",
+      "questionUrl": "https://www.codechef.com/submit/SMOL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-20T14:17:35.019Z",
+      "id": 751
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Gift Rift",
+      "questionUrl": "https://www.codechef.com/submit/SAD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-20T16:04:30.372Z",
+      "id": 752
     }
   ]
 }
