@@ -8971,7 +8971,7 @@
     },
     {
       "topic": [
-        "Basic Progaramming"
+        "Basic Programming"
       ],
       "questionTitle": "Maximise Function",
       "questionUrl": "https://www.codechef.com/submit/MAXFUN",
@@ -8983,7 +8983,7 @@
     },
     {
       "topic": [
-        "Basic Progaramming"
+        "Basic Programming"
       ],
       "questionTitle": "Chef and Apple Trees",
       "questionUrl": "https://www.codechef.com/submit/CAPPLE",
@@ -8995,7 +8995,7 @@
     },
     {
       "topic": [
-        "Basic Progaramming"
+        "Basic Programming"
       ],
       "questionTitle": "Lucky lucky number",
       "questionUrl": "https://www.codechef.com/submit/CHEFLUCK",
@@ -9007,7 +9007,7 @@
     },
     {
       "topic": [
-        "Basic Progaramming"
+        "Basic Programming"
       ],
       "questionTitle": "Help Voldemort",
       "questionUrl": "https://www.codechef.com/submit/HELPVOLD",
@@ -9019,7 +9019,7 @@
     },
     {
       "topic": [
-        "Basic Progaramming"
+        "Basic Programming"
       ],
       "questionTitle": "Spoon in Matrix",
       "questionUrl": "https://www.codechef.com/submit/SPOON",
@@ -9031,7 +9031,7 @@
     },
     {
       "topic": [
-        "Basic Progaramming"
+        "Basic Programming"
       ],
       "questionTitle": "Distinct Palindrome",
       "questionUrl": "https://www.codechef.com/submit/DISPAL",
@@ -9043,7 +9043,7 @@
     },
     {
       "topic": [
-        "Basic Progaramming"
+        "Basic Programming"
       ],
       "questionTitle": "Is this priority or parity!",
       "questionUrl": "https://www.codechef.com/submit/ISPAR",
@@ -9088,6 +9088,150 @@
       "bookmarked": "no",
       "Date": "2022-07-20T16:04:30.372Z",
       "id": 752
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Make Palindrome 2",
+      "questionUrl": "https://www.codechef.com/submit/MAKEPAL2",
+      "notes": "Read the problem clearly",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-07-21T05:03:52.451Z",
+      "id": 753
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Ball And Cups",
+      "questionUrl": "https://www.codechef.com/submit/TAVISUAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T05:18:41.013Z",
+      "id": 754
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Greedy puppy",
+      "questionUrl": "https://www.codechef.com/submit/GDOG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T05:33:14.964Z",
+      "id": 755
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Funny Hand",
+      "questionUrl": "https://www.codechef.com/submit/FUNHAND",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T05:58:02.552Z",
+      "id": 756
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Maximum Weight Difference",
+      "questionUrl": "https://www.codechef.com/submit/MAXDIFF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T06:10:32.445Z",
+      "id": 757
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Maximise the Subsequence Sum",
+      "questionUrl": "https://www.codechef.com/submit/SIGNFLIP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T06:44:34.934Z",
+      "id": 758
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Cleaning Up",
+      "questionUrl": "https://www.codechef.com/submit/CLEANUP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T07:04:19.552Z",
+      "id": 759
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Button Pairs",
+      "questionUrl": "https://www.codechef.com/submit/UWCOI20B",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T07:19:17.402Z",
+      "id": 760
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Approximately",
+      "questionUrl": "https://www.codechef.com/submit/APPROX",
+      "notes": "do not forget the basics...",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-07-21T08:07:18.219Z",
+      "id": 761
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and new recipe",
+      "questionUrl": "https://www.codechef.com/submit/CHEFRP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T08:21:16.556Z",
+      "id": 762
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Akash and Grid",
+      "questionUrl": "https://www.codechef.com/submit/CHEFGRD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T10:26:52.034Z",
+      "id": 763
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Pintu and Fruits",
+      "questionUrl": "https://www.codechef.com/submit/CHPINTU",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-21T11:26:00.811Z",
+      "id": 764
     }
   ]
 }
