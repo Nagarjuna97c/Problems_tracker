@@ -9232,6 +9232,42 @@
       "bookmarked": "no",
       "Date": "2022-07-21T11:26:00.811Z",
       "id": 764
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Maximum OR Minimum",
+      "questionUrl": "https://www.codechef.com/submit/MAXORMIN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-22T01:53:24.202Z",
+      "id": 765
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Splitting Candies",
+      "questionUrl": "https://www.codechef.com/submit/SPCANDY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-22T02:02:44.930Z",
+      "id": 766
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Distinct Characters Subsequence",
+      "questionUrl": "https://www.codechef.com/submit/DISCHAR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-22T02:10:39.477Z",
+      "id": 767
     }
   ]
 }
