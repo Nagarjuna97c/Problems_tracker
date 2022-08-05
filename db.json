@@ -9268,6 +9268,270 @@
       "bookmarked": "no",
       "Date": "2022-07-22T02:10:39.477Z",
       "id": 767
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Minimum Good Permutation",
+      "questionUrl": "https://www.codechef.com/submit/MINPERM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-07-25T04:32:16.319Z",
+      "id": 768
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Number Game Revisited",
+      "questionUrl": "https://www.codechef.com/submit/NUMGAME2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-08-04T04:26:06.113Z",
+      "id": 769
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Permutation GCD",
+      "questionUrl": "https://www.codechef.com/submit/PERMGCD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T05:49:30.858Z",
+      "id": 770
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "To Divide or Not To Divide",
+      "questionUrl": "https://www.codechef.com/submit/DIVAB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T05:56:04.573Z",
+      "id": 771
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Pairing Chefs",
+      "questionUrl": "https://www.codechef.com/submit/PAIRING",
+      "notes": "Read the question carefully",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-08-04T06:58:19.874Z",
+      "id": 772
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef in Heaven",
+      "questionUrl": "https://www.codechef.com/submit/CCHEAVEN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T07:03:47.164Z",
+      "id": 773
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Villages and Tribes",
+      "questionUrl": "https://www.codechef.com/submit/VILTRIBE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T08:16:35.011Z",
+      "id": 774
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Archi and Comparsion",
+      "questionUrl": "https://www.codechef.com/submit/NUMCOMP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T08:24:18.677Z",
+      "id": 775
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Ada and the Staircase",
+      "questionUrl": "https://www.codechef.com/submit/ADASTAIR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T09:17:00.148Z",
+      "id": 776
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Cache Hits",
+      "questionUrl": "https://www.codechef.com/submit/CACHEHIT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T09:34:46.092Z",
+      "id": 777
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Cube",
+      "questionUrl": "https://www.codechef.com/submit/CHCUBE",
+      "notes": "Learn about adjacent sides of a cube",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-08-04T10:00:26.844Z",
+      "id": 778
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chopsticks",
+      "questionUrl": "https://www.codechef.com/submit/TACHSTCK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-04T10:10:58.843Z",
+      "id": 779
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Make them Zero",
+      "questionUrl": "https://www.codechef.com/submit/MAKEZERO",
+      "notes": "use bit manipulation",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-08-05T05:57:18.305Z",
+      "id": 780
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Two Numbers",
+      "questionUrl": "https://www.codechef.com/submit/TWONMS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T06:04:12.525Z",
+      "id": 781
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Strike or Spare",
+      "questionUrl": "https://www.codechef.com/submit/PINS",
+      "notes": "find the probability of a palindrome",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-08-05T06:30:09.066Z",
+      "id": 782
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Problem Difficulties",
+      "questionUrl": "https://www.codechef.com/submit/PROBDIFF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T06:40:13.586Z",
+      "id": 783
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Arranging Cup-cakes",
+      "questionUrl": "https://www.codechef.com/submit/RESQ",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T06:57:06.050Z",
+      "id": 784
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Keyboard",
+      "questionUrl": "https://www.codechef.com/submit/CHEFKEY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T09:50:01.815Z",
+      "id": 785
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Stones",
+      "questionUrl": "https://www.codechef.com/submit/CHEFSTON",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T09:54:53.363Z",
+      "id": 786
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Pair Pain",
+      "questionUrl": "https://www.codechef.com/submit/PAIRPAIN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T10:25:05.499Z",
+      "id": 787
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Forgotten Language",
+      "questionUrl": "https://www.codechef.com/submit/FRGTNLNG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T10:48:43.536Z",
+      "id": 788
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Indivisible Permutation",
+      "questionUrl": "https://www.codechef.com/submit/INDIPERM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-08-05T10:54:14.426Z",
+      "id": 789
     }
   ]
 }
