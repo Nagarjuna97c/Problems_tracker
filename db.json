@@ -9988,6 +9988,162 @@
       "bookmarked": "no",
       "Date": "2022-08-11T05:59:49.740Z",
       "id": 827
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Make A and B equal",
+      "questionUrl": "https://www.codechef.com/submit/MAKEABEQUAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T04:28:46.315Z",
+      "id": 828
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Equal Distinct",
+      "questionUrl": "https://www.codechef.com/submit/EQDIS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T04:41:04.695Z",
+      "id": 829
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Two Trains",
+      "questionUrl": "https://www.codechef.com/submit/TWOTRAINS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T06:03:52.124Z",
+      "id": 830
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Array Equality",
+      "questionUrl": "https://www.codechef.com/submit/ARREQU",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T06:38:49.817Z",
+      "id": 831
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Hello Equation",
+      "questionUrl": "https://www.codechef.com/submit/HLEQN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T07:27:45.041Z",
+      "id": 832
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Minimum Sum",
+      "questionUrl": "https://www.codechef.com/submit/MINSM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T07:59:16.166Z",
+      "id": 833
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Bowling Strategy",
+      "questionUrl": "https://www.codechef.com/submit/BOWLERS",
+      "notes": "Think of edge cases",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-09-05T08:37:44.855Z",
+      "id": 834
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Kill them with your success",
+      "questionUrl": "https://www.codechef.com/submit/PROC18B",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T09:46:59.378Z",
+      "id": 835
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Obtain the Sum",
+      "questionUrl": "https://www.codechef.com/submit/BIGARRAY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T09:56:03.843Z",
+      "id": 836
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Cards Game",
+      "questionUrl": "https://www.codechef.com/submit/ICL1701",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T10:17:50.156Z",
+      "id": 837
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chocolate Monger",
+      "questionUrl": "https://www.codechef.com/submit/CM164364",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T11:09:47.706Z",
+      "id": 838
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Maximum Pairwise Modular Sum",
+      "questionUrl": "https://www.codechef.com/submit/MXMODSUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T11:38:34.212Z",
+      "id": 839
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Eat Twice",
+      "questionUrl": "https://www.codechef.com/submit/EATTWICE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-05T11:57:54.683Z",
+      "id": 840
     }
   ]
 }
