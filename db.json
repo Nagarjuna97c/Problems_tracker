@@ -10240,6 +10240,78 @@
       "bookmarked": "no",
       "Date": "2022-09-06T08:46:39.794Z",
       "id": 848
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Eidi Gift",
+      "questionUrl": "https://www.codechef.com/submit/EID2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-06T20:50:18.333Z",
+      "id": 849
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Make it Divisible",
+      "questionUrl": "https://www.codechef.com/submit/MAKEDIV3",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-06T21:10:55.121Z",
+      "id": 850
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Tom And Jerry 1",
+      "questionUrl": "https://www.codechef.com/submit/TANDJ1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-06T21:37:38.579Z",
+      "id": 851
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Football Match",
+      "questionUrl": "https://www.codechef.com/submit/FBMT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-06T21:51:49.096Z",
+      "id": 852
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Proxy",
+      "questionUrl": "https://www.codechef.com/submit/PROXYC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-06T22:09:03.564Z",
+      "id": 853
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Equality",
+      "questionUrl": "https://www.codechef.com/submit/CHEFEQ",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-06T22:18:10.181Z",
+      "id": 854
     }
   ]
 }
