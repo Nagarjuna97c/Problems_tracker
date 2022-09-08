@@ -10456,6 +10456,102 @@
       "bookmarked": "no",
       "Date": "2022-09-07T11:17:24.419Z",
       "id": 866
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Left-Right",
+      "questionUrl": "https://www.codechef.com/submit/CHEFLR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-09-07T15:45:51.389Z",
+      "id": 867
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Permutation Clear",
+      "questionUrl": "https://www.codechef.com/submit/PERMCLEAR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-07T23:24:36.391Z",
+      "id": 868
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Mean and Median",
+      "questionUrl": "https://www.codechef.com/submit/MEANMEDIAN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-07T23:32:43.838Z",
+      "id": 869
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Byte to Bit",
+      "questionUrl": "https://www.codechef.com/submit/BITOBYT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-07T23:53:55.601Z",
+      "id": 870
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Numbers",
+      "questionUrl": "https://www.codechef.com/submit/RECNDNOS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T00:11:05.258Z",
+      "id": 871
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Deputy Chef",
+      "questionUrl": "https://www.codechef.com/submit/DEPCHEF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T00:22:15.249Z",
+      "id": 872
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Recipe",
+      "questionUrl": "codechef.com/submit/CHEFRECP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T00:38:19.967Z",
+      "id": 873
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Ballons",
+      "questionUrl": "https://www.codechef.com/submit/CHBLLNS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T01:04:57.087Z",
+      "id": 874
     }
   ]
 }
