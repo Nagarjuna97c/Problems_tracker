@@ -10552,6 +10552,90 @@
       "bookmarked": "no",
       "Date": "2022-09-08T01:04:57.087Z",
       "id": 874
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Average Permutation",
+      "questionUrl": "https://www.codechef.com/submit/AVGPERM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T04:29:38.445Z",
+      "id": 875
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Bored Games",
+      "questionUrl": "https://www.codechef.com/submit/PCJ18B",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T05:10:48.948Z",
+      "id": 876
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Name Reduction",
+      "questionUrl": "https://www.codechef.com/submit/NAME1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T05:24:27.726Z",
+      "id": 877
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Hotel Bytelandia",
+      "questionUrl": "https://www.codechef.com/submit/HOTEL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T05:32:46.506Z",
+      "id": 878
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Xor Equality",
+      "questionUrl": "https://www.codechef.com/submit/XOREQUAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-09-08T06:18:28.052Z",
+      "id": 879
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Mighty Friend",
+      "questionUrl": "https://www.codechef.com/submit/MTYFRI",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T07:04:27.700Z",
+      "id": 880
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Problem Setting",
+      "questionUrl": "https://www.codechef.com/submit/PROBSET",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-08T11:47:00.825Z",
+      "id": 881
     }
   ]
 }
