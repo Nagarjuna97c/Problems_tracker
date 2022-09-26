@@ -10636,6 +10636,234 @@
       "bookmarked": "no",
       "Date": "2022-09-08T11:47:00.825Z",
       "id": 881
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Tax Slabs",
+      "questionUrl": "https://www.codechef.com/submit/SLAB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T08:35:40.729Z",
+      "id": 882
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Different Medians",
+      "questionUrl": "https://www.codechef.com/submit/DIFFMED",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T08:58:05.180Z",
+      "id": 883
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and easy problem",
+      "questionUrl": "https://www.codechef.com/submit/CHEFA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T09:06:49.235Z",
+      "id": 884
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Alternating subarray prefix",
+      "questionUrl": "https://www.codechef.com/submit/ALTARAY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T09:17:24.591Z",
+      "id": 885
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Wire Frames",
+      "questionUrl": "https://www.codechef.com/SEP221D/problems/CWIREFRAME",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T09:50:34.124Z",
+      "id": 886
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Guessing Game",
+      "questionUrl": "https://www.codechef.com/submit/GUESS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T09:51:08.191Z",
+      "id": 887
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Bob at the Bank",
+      "questionUrl": "https://www.codechef.com/SEP221D/problems/BOBBANK",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T09:53:40.175Z",
+      "id": 888
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Speed Limit Test",
+      "questionUrl": "https://www.codechef.com/SEP221D/problems/SPEEDTEST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T09:56:20.542Z",
+      "id": 889
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Good Pairs",
+      "questionUrl": "https://www.codechef.com/SEP221D/problems/EQPAIR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T10:03:18.110Z",
+      "id": 890
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Interesting Subarray",
+      "questionUrl": "https://www.codechef.com/SEP221D/problems/SUBARRY",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T10:25:41.720Z",
+      "id": 891
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Pokemon Battles",
+      "questionUrl": "https://www.codechef.com/SEP221D/problems/PBATTLE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T11:07:39.608Z",
+      "id": 892
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Bella ciao",
+      "questionUrl": "https://www.codechef.com/submit/CHFHEIST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T15:09:28.666Z",
+      "id": 893
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "B - Valentine Couples",
+      "questionUrl": "https://www.codechef.com/submit/VCOUPLE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-09T15:24:05.636Z",
+      "id": 894
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Plusle and Minun on Array",
+      "questionUrl": "https://www.codechef.com/submit/PMA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-10T01:40:37.006Z",
+      "id": 895
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Shortest Path in Binary Trees",
+      "questionUrl": "https://www.codechef.com/submit/BINTREE",
+      "notes": "check all my submissions especially bit method",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-09-10T02:23:38.742Z",
+      "id": 896
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Remove Element",
+      "questionUrl": "https://www.codechef.com/submit/REMELEM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-10T12:53:21.973Z",
+      "id": 897
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Courses in an university",
+      "questionUrl": "https://www.codechef.com/submit/UNICOURS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-10T13:24:57.869Z",
+      "id": 898
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Fit to Play",
+      "questionUrl": "https://www.codechef.com/submit/PLAYFIT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-10T14:50:31.323Z",
+      "id": 899
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Mix the Colors",
+      "questionUrl": "https://www.codechef.com/submit/MIXCOLOR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-11T00:34:58.536Z",
+      "id": 900
     }
   ]
 }
