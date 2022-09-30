@@ -10864,6 +10864,162 @@
       "bookmarked": "no",
       "Date": "2022-09-11T00:34:58.536Z",
       "id": 900
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Maximum Expression",
+      "questionUrl": "https://www.codechef.com/submit/MAXEXP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-26T04:51:28.874Z",
+      "id": 901
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Maximize Colours",
+      "questionUrl": "https://www.codechef.com/submit/COLOUR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-26T05:38:01.742Z",
+      "id": 902
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Knight Chess",
+      "questionUrl": "https://www.codechef.com/submit/KCHESS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-26T06:24:37.137Z",
+      "id": 903
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Distinct Dilemma",
+      "questionUrl": "https://www.codechef.com/submit/DISTDILEM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T04:57:53.527Z",
+      "id": 904
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Professor And Directions",
+      "questionUrl": "https://www.codechef.com/submit/DIRECTN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T05:14:08.742Z",
+      "id": 905
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Gift",
+      "questionUrl": "https://www.codechef.com/submit/PRGIFT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T05:41:50.208Z",
+      "id": 906
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Girlfriend",
+      "questionUrl": "https://www.codechef.com/submit/GERALD04",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T06:04:34.503Z",
+      "id": 907
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Largest Bouquet",
+      "questionUrl": "https://www.codechef.com/submit/BOUQUET",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T06:17:00.336Z",
+      "id": 908
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Decreasing Srrnmieeda",
+      "questionUrl": "https://www.codechef.com/submit/DECREM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-09-29T06:50:18.226Z",
+      "id": 909
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Average Array",
+      "questionUrl": "https://www.codechef.com/submit/AVGARR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T07:53:34.181Z",
+      "id": 910
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Say No To Drugs",
+      "questionUrl": "https://www.codechef.com/submit/NODRUGS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T08:05:21.895Z",
+      "id": 911
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Parallel Processing",
+      "questionUrl": "https://www.codechef.com/submit/PLPROCESS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T08:14:51.658Z",
+      "id": 912
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Reversing directions",
+      "questionUrl": "https://www.codechef.com/submit/DIRECTI",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-09-29T08:23:05.465Z",
+      "id": 913
     }
   ]
 }
