@@ -12124,6 +12124,18 @@
       "bookmarked": "no",
       "Date": "2022-10-09T09:45:05.750Z",
       "id": 1005
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef Goes to the Cinema",
+      "questionUrl": "https://www.codechef.com/submit/CO92SUBW",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T03:37:10.569Z",
+      "id": 1006
     }
   ]
 }
