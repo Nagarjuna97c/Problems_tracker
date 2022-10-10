@@ -12136,6 +12136,114 @@
       "bookmarked": "no",
       "Date": "2022-10-10T03:37:10.569Z",
       "id": 1006
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Musical Chairs",
+      "questionUrl": "https://www.codechef.com/submit/MUSICHAIR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T04:48:19.428Z",
+      "id": 1007
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Reach The Point",
+      "questionUrl": "https://www.codechef.com/submit/RETPO",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-10-10T05:49:44.666Z",
+      "id": 1008
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Harrenhal",
+      "questionUrl": "https://www.codechef.com/submit/HHAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T05:58:21.751Z",
+      "id": 1009
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Exactly N plus 1 Values",
+      "questionUrl": "https://www.codechef.com/submit/N1VALUES",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T06:05:39.279Z",
+      "id": 1010
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Who dares to be a millionaire",
+      "questionUrl": "https://www.codechef.com/submit/WDTBAM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T06:29:11.559Z",
+      "id": 1011
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef goes Left Right Left",
+      "questionUrl": "https://www.codechef.com/submit/CLRL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T07:11:18.810Z",
+      "id": 1012
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Positive Prefixes",
+      "questionUrl": "https://www.codechef.com/submit/POSPREFS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T08:32:55.539Z",
+      "id": 1013
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Total Correct Submissions",
+      "questionUrl": "https://www.codechef.com/submit/TOTCRT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T08:42:23.347Z",
+      "id": 1014
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Equality",
+      "questionUrl": "https://www.codechef.com/submit/EQUALITY",
+      "notes": "Think in math",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-10-10T11:48:52.272Z",
+      "id": 1015
     }
   ]
 }
