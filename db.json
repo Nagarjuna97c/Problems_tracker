@@ -12316,6 +12316,138 @@
       "bookmarked": "yes",
       "Date": "2022-10-11T01:43:16.742Z",
       "id": 1021
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Longest AND Subarray",
+      "questionUrl": "https://www.codechef.com/submit/ANDSUBAR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T05:11:50.585Z",
+      "id": 1022
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Subarray permutations",
+      "questionUrl": "https://www.codechef.com/submit/SUBPERM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T05:30:13.057Z",
+      "id": 1023
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef And Magical Path",
+      "questionUrl": "https://www.codechef.com/submit/CHEFPATH",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T06:00:39.496Z",
+      "id": 1024
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Tennis Tournament",
+      "questionUrl": "https://www.codechef.com/submit/EXUNB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T07:04:19.332Z",
+      "id": 1025
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Ridges",
+      "questionUrl": "https://www.codechef.com/submit/PRDRG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-10-11T08:39:36.175Z",
+      "id": 1026
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Palindrome Pain",
+      "questionUrl": "https://www.codechef.com/submit/PALINPAIN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T09:09:05.504Z",
+      "id": 1027
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Magda and Silly Pairs",
+      "questionUrl": "https://www.codechef.com/submit/SILLYPRS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T09:28:32.353Z",
+      "id": 1028
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Reduce to One",
+      "questionUrl": "https://www.codechef.com/submit/REDONE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T10:26:26.958Z",
+      "id": 1029
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Equal by XORing",
+      "questionUrl": "https://www.codechef.com/submit/EQBYXOR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T11:14:26.867Z",
+      "id": 1030
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Strong Elements",
+      "questionUrl": "https://www.codechef.com/submit/STRNG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T11:33:05.479Z",
+      "id": 1031
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Climbing Stairs",
+      "questionUrl": "https://www.codechef.com/submit/CLMBSTRS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T12:02:16.590Z",
+      "id": 1032
     }
   ]
 }
