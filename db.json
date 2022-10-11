@@ -12244,6 +12244,78 @@
       "bookmarked": "yes",
       "Date": "2022-10-10T11:48:52.272Z",
       "id": 1015
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Single Operation Part 1",
+      "questionUrl": "https://www.codechef.com/submit/SINGLEOP1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T13:08:28.129Z",
+      "id": 1016
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Single Operation Part 2",
+      "questionUrl": "https://www.codechef.com/submit/SINGLEOP2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T13:08:44.811Z",
+      "id": 1017
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Building Race",
+      "questionUrl": "https://www.codechef.com/submit/BUILDINGRACE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-10T13:09:45.961Z",
+      "id": 1018
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lucky Number Game",
+      "questionUrl": "https://www.codechef.com/submit/HP18",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T00:13:30.582Z",
+      "id": 1019
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Equal Difference",
+      "questionUrl": "https://www.codechef.com/submit/EQDIFFER",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-11T01:16:41.469Z",
+      "id": 1020
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Magical Jars",
+      "questionUrl": "https://www.codechef.com/submit/MAGICJAR",
+      "notes": "observe --> use math,pen and paper",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-10-11T01:43:16.742Z",
+      "id": 1021
     }
   ]
 }
