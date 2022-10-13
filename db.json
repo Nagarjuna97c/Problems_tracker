@@ -12580,6 +12580,102 @@
       "bookmarked": "no",
       "Date": "2022-10-13T04:07:14.117Z",
       "id": 1043
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Predictopus",
+      "questionUrl": "https://www.codechef.com/status/PREDICT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-10-13T05:34:29.594Z",
+      "id": 1044
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Team of Two",
+      "questionUrl": "https://www.codechef.com/submit/TEAMOF2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T05:44:16.467Z",
+      "id": 1045
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Restore Sequence",
+      "questionUrl": "https://www.codechef.com/submit/RESTORE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T08:32:23.135Z",
+      "id": 1046
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Lack of Logic",
+      "questionUrl": "https://www.codechef.com/submit/NOLOGIC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T08:50:56.985Z",
+      "id": 1047
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Black And White Cells",
+      "questionUrl": "https://www.codechef.com/submit/BWCELL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T09:33:05.258Z",
+      "id": 1048
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef of the Year",
+      "questionUrl": "https://www.codechef.com/submit/CVOTE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T10:21:29.301Z",
+      "id": 1049
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef And The Patents",
+      "questionUrl": "https://www.codechef.com/submit/CHEFPTNT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T11:16:16.550Z",
+      "id": 1050
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Hello Hello",
+      "questionUrl": "https://www.codechef.com/submit/HELLO",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T11:27:55.452Z",
+      "id": 1051
     }
   ]
 }
