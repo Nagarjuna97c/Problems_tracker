@@ -12513,25 +12513,61 @@
       "topic": [
         "Basic Programming"
       ],
-      "questionTitle": "",
-      "questionUrl": "",
+      "questionTitle": "Distinct Numbers",
+      "questionUrl": "https://www.codechef.com/submit/DISKMOV",
       "notes": "",
       "questionStatus": "completed",
       "bookmarked": "no",
-      "Date": "2022-10-12T09:42:27.157Z",
+      "Date": "2022-10-13T02:18:51.139Z",
       "id": 1038
     },
     {
       "topic": [
         "Basic Programming"
       ],
-      "questionTitle": "",
-      "questionUrl": "",
+      "questionTitle": "Yet Another Palindrome Problem",
+      "questionUrl": "https://www.codechef.com/submit/ARRPAL",
       "notes": "",
       "questionStatus": "completed",
       "bookmarked": "no",
-      "Date": "2022-10-12T09:42:27.444Z",
+      "Date": "2022-10-13T02:19:17.623Z",
       "id": 1039
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Palindrome Flipping",
+      "questionUrl": "https://www.codechef.com/submit/FLIPPAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T02:19:38.573Z",
+      "id": 1040
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Paper Cutting",
+      "questionUrl": "https://www.codechef.com/submit/CUTPAPER",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T02:19:56.573Z",
+      "id": 1041
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Card Removal Scored",
+      "questionUrl": "https://www.codechef.com/submit/REMOVECARDS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-13T02:20:14.889Z",
+      "id": 1042
     }
   ]
 }
