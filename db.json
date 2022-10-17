@@ -12760,6 +12760,102 @@
       "bookmarked": "no",
       "Date": "2022-10-16T15:42:11.995Z",
       "id": 1058
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Mean Maximization",
+      "questionUrl": "https://www.codechef.com/submit/MEANMAX",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-10-17T05:22:46.126Z",
+      "id": 1059
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Recipe Reconstruction",
+      "questionUrl": "https://www.codechef.com/submit/RRECIPE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-17T05:53:06.205Z",
+      "id": 1060
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Square Digit Squares",
+      "questionUrl": "https://www.codechef.com/submit/SDSQUARE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-17T06:50:03.615Z",
+      "id": 1061
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "When to take medicine",
+      "questionUrl": "https://www.codechef.com/submit/MEDIC",
+      "notes": "https://www.codechef.com/viewsolution/75855829",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-10-17T08:20:35.243Z",
+      "id": 1062
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Plagiarism",
+      "questionUrl": "https://www.codechef.com/submit/QUIZPLAG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-17T09:02:12.599Z",
+      "id": 1063
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Split Sums",
+      "questionUrl": "https://www.codechef.com/submit/SPSUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-17T09:21:19.914Z",
+      "id": 1064
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Guddu on a Date",
+      "questionUrl": "https://www.codechef.com/submit/KS2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-17T10:31:28.821Z",
+      "id": 1065
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Remember the recipe",
+      "questionUrl": "https://www.codechef.com/submit/TWSTR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-17T10:55:00.728Z",
+      "id": 1066
     }
   ]
 }
