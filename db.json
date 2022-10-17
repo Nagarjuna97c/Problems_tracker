@@ -12587,7 +12587,7 @@
       ],
       "questionTitle": "Predictopus",
       "questionUrl": "https://www.codechef.com/status/PREDICT",
-      "notes": "",
+      "notes": "https://docs.google.com/document/d/1KSJ0Y_LSvw3zcvEzgPcsfgA6TUam5m6WTRw8GASw68w/edit",
       "questionStatus": "completed",
       "bookmarked": "yes",
       "Date": "2022-10-13T05:34:29.594Z",
@@ -12676,6 +12676,90 @@
       "bookmarked": "no",
       "Date": "2022-10-13T11:27:55.452Z",
       "id": 1051
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Red Green Grids",
+      "questionUrl": "https://www.codechef.com/submit/REDGREEN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-14T08:02:36.457Z",
+      "id": 1052
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Wave",
+      "questionUrl": "https://www.codechef.com/submit/WAV2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-14T08:25:17.227Z",
+      "id": 1053
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Compress the List",
+      "questionUrl": "https://www.codechef.com/submit/CMPRSS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-14T10:08:19.554Z",
+      "id": 1054
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Greg and Grid",
+      "questionUrl": "https://www.codechef.com/submit/GREG",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-15T13:56:25.966Z",
+      "id": 1055
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "College Life 2",
+      "questionUrl": "https://www.codechef.com/submit/COLGLF2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-16T13:52:16.478Z",
+      "id": 1056
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "K-th Maximum",
+      "questionUrl": "https://www.codechef.com/submit/KMAX2",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-16T14:23:44.698Z",
+      "id": 1057
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Prime Xor",
+      "questionUrl": "https://www.codechef.com/submit/PRIME_XOR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-16T15:42:11.995Z",
+      "id": 1058
     }
   ]
 }
