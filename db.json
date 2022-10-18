@@ -12856,6 +12856,66 @@
       "bookmarked": "no",
       "Date": "2022-10-17T10:55:00.728Z",
       "id": 1066
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Admins and Shopping",
+      "questionUrl": "https://www.codechef.com/submit/ADMINSHOP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-18T05:23:37.467Z",
+      "id": 1067
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Fast Food",
+      "questionUrl": "https://www.codechef.com/submit/FASTFOOD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-18T06:15:15.281Z",
+      "id": 1068
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Median of adjacent maximum numbers",
+      "questionUrl": "https://www.codechef.com/submit/MXMEDIAN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-18T09:18:09.715Z",
+      "id": 1069
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Minimum Number of Pizzas",
+      "questionUrl": "https://www.codechef.com/submit/MINPIZZAS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-18T09:25:24.648Z",
+      "id": 1070
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Prefix Permutation",
+      "questionUrl": "https://www.codechef.com/submit/PREFPERM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-18T10:27:28.694Z",
+      "id": 1071
     }
   ]
 }
