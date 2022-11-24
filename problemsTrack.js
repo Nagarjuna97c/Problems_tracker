@@ -48,7 +48,7 @@ async function addProblemToTracker(event) {
     body: JSON.stringify(problemObject),
   };
 
-  await fetch("http://localhost:3000/problemsTracksheet", options);
+  await fetch("http://localhost:7000/problemsTracksheet", options);
 
   questionInput.value = "";
   urlInput.value = "";

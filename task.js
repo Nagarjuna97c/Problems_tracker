@@ -14,9 +14,9 @@ let filterData;
 let getData = async function () {
   let data;
   if (selectedSort === "") {
-    data = await fetch("http://localhost:3000/todos");
+    data = await fetch("http://localhost:7000/todos");
   } else {
-    data = await fetch(`http://localhost:3000/todos?completed=${completed}`);
+    data = await fetch(`http://localhost:7000/todos?completed=${completed}`);
   }
 
   todosList = await data.json();
@@ -116,7 +116,7 @@ const addTodoTask = async function () {
     displayTodo(todo, "fade-in");
   }
 
-  fetch("http://localhost:3000/todos", options);
+  fetch("http://localhost:7000/todos", options);
   todosList.push(todo);
 };
 
@@ -147,7 +147,7 @@ function changeTodoStatus(event) {
     body: JSON.stringify(modifiedTodoItem),
   };
 
-  fetch(`http://localhost:3000/todos/${todoId}`, options);
+  fetch(`http://localhost:7000/todos/${todoId}`, options);
 
   todosContainer.innerHTML = "";
   displayTodos();
@@ -171,7 +171,7 @@ function deleteToDo(event) {
     todo.remove();
   }, 2000);
 
-  todosList = fetch(`http://localhost:3000/todos/${todoId}`, options);
+  todosList = fetch(`http://localhost:7000/todos/${todoId}`, options);
 
   let id = 1;
   document.querySelectorAll(".todo-task").forEach((each) => {
@@ -211,7 +211,7 @@ function openEditModal() {
       body: JSON.stringify(modifiedTodoItem),
     };
 
-    fetch(`http://localhost:3000/todos/${todoId}`, options);
+    fetch(`http://localhost:7000/todos/${todoId}`, options);
   };
 }
 

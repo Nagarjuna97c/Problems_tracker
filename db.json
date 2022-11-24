@@ -12928,6 +12928,306 @@
       "bookmarked": "no",
       "Date": "2022-10-19T05:31:50.506Z",
       "id": 1072
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Subarray Removal",
+      "questionUrl": "https://www.codechef.com/submit/SUBARRAYREM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-31T04:55:27.035Z",
+      "id": 1073
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Sheokand and Number",
+      "questionUrl": "https://www.codechef.com/submit/SHKNUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-10-31T05:35:37.219Z",
+      "id": 1074
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Flip the String",
+      "questionUrl": "https://www.codechef.com/submit/FLIP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-07T07:28:04.907Z",
+      "id": 1075
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "One-XOR Deletions",
+      "questionUrl": "https://www.codechef.com/submit/DELXORONE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-07T10:20:33.643Z",
+      "id": 1076
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Make Length 1",
+      "questionUrl": "https://www.codechef.com/submit/MAKELENGTH1",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-07T10:37:53.821Z",
+      "id": 1077
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Javelin Qualification",
+      "questionUrl": "https://www.codechef.com/submit/JAVELIN",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-08T05:26:26.254Z",
+      "id": 1078
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Smallest KMP",
+      "questionUrl": "https://www.codechef.com/submit/SKMP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-08T05:50:03.784Z",
+      "id": 1079
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "maximize the sum",
+      "questionUrl": "https://www.codechef.com/submit/MAXISUM",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-08T06:13:51.429Z",
+      "id": 1080
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Paying up",
+      "questionUrl": "https://www.codechef.com/submit/A1",
+      "notes": "Try using DP again",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-11-08T06:39:14.508Z",
+      "id": 1081
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Maximize Difference",
+      "questionUrl": "https://www.codechef.com/submit/DIF_GCD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-14T05:16:39.619Z",
+      "id": 1082
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Dynamo",
+      "questionUrl": "https://www.codechef.com/problems/DYNAMO",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-14T06:04:00.675Z",
+      "id": 1083
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Stable Sequence",
+      "questionUrl": "https://www.codechef.com/problems/STBARR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-14T06:21:29.552Z",
+      "id": 1084
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Let us play with rank list",
+      "questionUrl": "https://www.codechef.com/problems/RANKLIST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-14T10:29:20.877Z",
+      "id": 1085
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Na2a and lucky stone",
+      "questionUrl": "https://www.codechef.com/problems/LCKYST",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-11-14T11:27:37.539Z",
+      "id": 1086
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Dish Of Life",
+      "questionUrl": "https://www.codechef.com/problems/DISHLIFE",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-15T05:31:33.485Z",
+      "id": 1087
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef And Binary Operation",
+      "questionUrl": "https://www.codechef.com/problems/BINOP",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-15T06:12:08.101Z",
+      "id": 1088
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The two numbers",
+      "questionUrl": "https://www.codechef.com/problems/TWONUMBERS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-15T08:53:51.202Z",
+      "id": 1089
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Meetings",
+      "questionUrl": "https://www.codechef.com/problems/MEET",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-15T09:35:56.070Z",
+      "id": 1090
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Count K-Primes",
+      "questionUrl": "https://www.codechef.com/problems/KPRIME",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-15T11:45:45.645Z",
+      "id": 1091
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Bread",
+      "questionUrl": "https://www.codechef.com/problems/EGBOBRD",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-16T06:51:55.044Z",
+      "id": 1092
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Event",
+      "questionUrl": "https://www.codechef.com/problems/EVENT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-16T09:49:43.155Z",
+      "id": 1093
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Chef and Inequality",
+      "questionUrl": "https://www.codechef.com/problems/LTM40AB",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-23T05:25:32.787Z",
+      "id": 1094
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Catch the Thief",
+      "questionUrl": "https://www.codechef.com/problems/CATHIEF",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-23T05:31:30.210Z",
+      "id": 1095
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Doof on Cartesian",
+      "questionUrl": "https://www.codechef.com/problems/CLPNT",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-23T05:32:17.512Z",
+      "id": 1096
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "XxOoRr",
+      "questionUrl": "https://www.codechef.com/problems/XXOORR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-23T06:15:32.401Z",
+      "id": 1097
     }
   ]
 }
