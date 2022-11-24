@@ -13228,6 +13228,30 @@
       "bookmarked": "no",
       "Date": "2022-11-23T06:15:32.401Z",
       "id": 1097
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Palindrome by Splitting",
+      "questionUrl": "https://www.codechef.com/problems/SPLITPAL",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-24T02:50:58.902Z",
+      "id": 1098
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Good Binary Strings",
+      "questionUrl": "https://www.codechef.com/problems/GOODBINSTR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-24T03:46:50.067Z",
+      "id": 1099
     }
   ]
 }
