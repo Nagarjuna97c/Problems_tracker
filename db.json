@@ -13252,6 +13252,102 @@
       "bookmarked": "no",
       "Date": "2022-11-24T03:46:50.067Z",
       "id": 1099
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Bus full of passengers",
+      "questionUrl": "https://www.codechef.com/problems/BUS",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-24T14:12:53.392Z",
+      "id": 1100
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Sticks and Rectangles",
+      "questionUrl": "https://www.codechef.com/problems/RECSTI",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-24T14:33:03.779Z",
+      "id": 1101
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "XOR N-bonacci Sequence",
+      "questionUrl": "https://www.codechef.com/problems/NBONACCI",
+      "notes": "https://www.scaler.com/help_requests/497601/",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-11-26T06:50:09.733Z",
+      "id": 1102
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Count Array Pairs Divisible by K",
+      "questionUrl": "https://leetcode.com/problems/count-array-pairs-divisible-by-k",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "yes",
+      "Date": "2022-11-26T11:14:42.020Z",
+      "id": 1103
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Phantasialand",
+      "questionUrl": "https://www.codechef.com/problems/P1Z2S",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-27T01:12:14.000Z",
+      "id": 1104
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Increasing Decreasing",
+      "questionUrl": "https://www.codechef.com/problems/INCRDEC",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-27T01:25:02.331Z",
+      "id": 1105
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "The Leaking Robot",
+      "questionUrl": "https://www.codechef.com/problems/CRAWA",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-27T02:46:14.755Z",
+      "id": 1106
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": " Find Greatest Common Divisor of Array",
+      "questionUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-11-27T03:07:29.525Z",
+      "id": 1107
     }
   ]
 }
