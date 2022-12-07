@@ -13348,6 +13348,18 @@
       "bookmarked": "no",
       "Date": "2022-11-27T03:07:29.525Z",
       "id": 1107
+    },
+    {
+      "topic": [
+        "Basic Programming"
+      ],
+      "questionTitle": "Beautiful Array",
+      "questionUrl": "https://www.codechef.com/problems/BTAR",
+      "notes": "",
+      "questionStatus": "completed",
+      "bookmarked": "no",
+      "Date": "2022-12-07T10:55:37.434Z",
+      "id": 1108
     }
   ]
 }
